@@ -51,8 +51,6 @@ Desafio 3
 
 Desafio 4
 
-Desafio 5
-
 ## Trabalho Final
 Como um produto melhor acabado do esforço de cada participante e requisito da certificação, o projeto final será autoral. Recomendamos fortemente que ele faça sentido para seu próprio trabalho/pesquisa/estudo.
 Igualmente aos desafios, não haverá nota. Mas a não entrega retira a certificação da(o) participante.
