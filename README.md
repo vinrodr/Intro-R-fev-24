@@ -7,20 +7,29 @@ O curso pretende oferecer uma iniciação à lógica de programação em linguag
 Dentro desta perspectiva, o curso abordará desde o elementar da linguagem (instalação do software e reconhecimento do layout e suas opções) até aplicações mais complexas como a raspagem de dados da web e elaboração de mapas. De toda maneira, o foco está na “alfabetização” do participante na linguagem R (operações matemáticas, tipos de dados e objetos, operadores relacionais e lógicos, loops e funções) a partir da manipulação de dados em data-frames.
 
 ## Roteiro de aula e tutoriais
-Obs. Os tópicos 7 a 10 estão sujeitos a alteração.
+Obs. Tópicos 7 a 10 estão sujeitos a alteração.
 
 [Encontro 1](). Preparação do ambiente computacional: R e RStudio.
+
 [Encontro 2](). Gramática R: Operações matemáticas, tipos de dados, vetores, matrizes, fatores,
 data-frames e listas.
+
 [Encontro 3](). Alfabetização em R base: Operadores relacionais e lógicos, condicionais, loops e
 funções. (I)
+
 [Encontro 4](). Alfabetização em R base: Operadores relacionais e lógicos, condicionais, loops e
 funções. (II)
+
 [Encontro 5](). O pacote Tidyverse: Manipulação de data-frames em R, tabelas e gráficos. (I)
+
 [Encontro 6](). O pacote Tidyverse: Visualização de dados e o pacote ggplot2. (II)
+
 [Encontro 7](). Aplicações: Raspagem de dados na internet.
+
 [Encontro 8](). Aplicações: Soluções via API de terceiros (basedosdados).
+
 [Encontro 9](). Aplicações: Mineração de textos com R.
+
 [Encontro 10](). Aplicações: Mapas e GIS.
 
 ## Referências bibliográficas
