@@ -7,6 +7,8 @@ O curso pretende oferecer uma iniciação à lógica de programação em linguag
 Dentro desta perspectiva, o curso abordará desde o elementar da linguagem (instalação do software e reconhecimento do layout e suas opções) até aplicações mais complexas como a raspagem de dados da web e elaboração de mapas. De toda maneira, o foco está na “alfabetização” do participante na linguagem R (operações matemáticas, tipos de dados e objetos, operadores relacionais e lógicos, loops e funções) a partir da manipulação de dados em data-frames.
 
 # Roteiro de aula e tutoriais
+Calendário e tópicos sujeitos a alteração
+
 1. Preparação do ambiente computacional:R e RStudio.
 2. Gramática R: Operações matemáticas, tipos de dados, vetores, matrizes, fatores,
 data-frames e listas.
