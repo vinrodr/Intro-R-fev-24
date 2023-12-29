@@ -36,7 +36,7 @@ dados com R: Uma Introdução. Disponível em: https://cdr.ibpad.com.br/cdr-intr
 # Atividades, tempo de dedicação e recomendações
 É importante ressaltar que não há motivo para receios. O curso é pensado ajudar as(os) participantes (de quaisquer origens e trajetórias) e não criar maiores dificuldades na aprendizagem. Assim, não há quaisquer pré-requisitos.
 
-A cópia de códigos não é recriminada, caso haja indicação de autoria. Como ficará claro ao longo dos encontros, a atividade de programar funciona muito bem de maneira colaborativa - e 2023 trouxe uma outra facilidade: chatGPT e afins.
+A cópia de códigos não é recriminada, caso haja indicação de autoria. Como ficará claro ao longo dos encontros, a atividade de programar funciona muito bem de maneira colaborativa.
 
 Além disso, como recomendamos que comentem seus scripts para indicar origem, prescrevemos que usem a ferramenta de comentário para tornar seu código de fácil compreensão para outras(os) e para vocês no futuro (por vezes, ao retornar a um código antigo, podemos ter dificuldade na compreensão do que foi feito).
 
