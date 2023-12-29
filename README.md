@@ -22,7 +22,6 @@ funções. (II)
 10. Aplicações: Mapas e GI
 
 # Referências bibliográficas
-
 * Aquino, Jakson Alves de (2014). R para cientistas sociais. Editus.
 * Navarro, Danielle; Pedersen, Thomas Lin e Wickham, Hadley (2009). ggplot2: Elegant Graphics for Data Analysis. Ed: Springer.
 * Guerra, Saulo; Oliveira, Paulo Felipe de e McDonnell, Robert (2018). Ciência de
@@ -34,9 +33,22 @@ dados com R: Uma Introdução. Disponível em: https://cdr.ibpad.com.br/cdr-intr
 * Wichkam, Hadley e Grolemund, Garrett (2016). R for Data Science. Ed: O'Reilly Media.
 * Wichkam, Hadley (2014). Advanced R. Ed: Chapman and Hall/CRC
 
-# Atividades de avaliação
-## Desafios
+# Atividades, tempo de dedicação e recomendações
+É importante ressaltar que não há motivo para receios. O curso é pensado ajudar as(os) participantes (de quaisquer origens e trajetórias) e não criar maiores dificuldades na aprendizagem. Assim, não há quaisquer pré-requisitos.
 
+A cópia de códigos não é recriminada, caso haja indicação de autoria. Como ficará claro ao longo dos encontros, a atividade de programar funciona muito bem de maneira colaborativa - e 2023 trouxe uma outra facilidade: chatGPT e afins.
+
+Além disso, como recomendamos que comentem seus scripts para indicar origem, prescrevemos que usem a ferramenta de comentário para tornar seu código de fácil compreensão para outras(os) e para vocês no futuro (por vezes, ao retornar a um código antigo, podemos ter dificuldade na compreensão do que foi feito).
+
+As 40 horas propostas para o curso são suficientes para que a(o) participante supere a barreira de entrada na linguagem de programação, contudo é importante que haja algum esforço posterior extra-classe para fixação do aprendizado. 
+
+Assim, ao final do calendário, cada participante estará apta(o) a aprimorar suas habilidades de maneira autônoma. E, por isso, precisará entregar um projeto final a ser escolhido por ajuste com o docente.
+
+## Desafios
+Já que o curso propõe uma aprendizagem ativa dos participantes, o encerramento de cada tópico terá um desafio para que solucionem em duplas. Não haverá nota, mas a não entrega de quaisquer um dos desafios retira a certificação da(o) participante. 
 
 ## Trabalho Final
+Como um produto melhor acabado do esforço de cada participante e requisito da certificação, o projeto final será autoral. Recomendamos fortemente que ele faça sentido para seu próprio trabalho/pesquisa/estudo.
+
+Igualmente aos desafios, não haverá nota. Mas a não entrega retira a certificação da(o) participante.
 
