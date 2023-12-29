@@ -3,6 +3,7 @@ Curso de introdução à programação em R. Ofertado no primeiro semestre de 20
 
 # Apresentação
 O curso pretende oferecer uma iniciação à lógica de programação em linguagem R para os alunas(os) e comunidade UNIFESP. Em específico, propõe-se apresentá- las(los) e treiná-las(los) no uso de ferramentas computacionais para (i)coleta, (ii)organização, (iii) preparação e (iv) apresentação de dados. Neste sentido, não se trata de um curso de estatística, nem de metodologia, mas sim, de iniciação em uma linguagem de programação por meio do aprendizado de suas potencialidades na análise exploratória de dados.
+
 Dentro desta perspectiva, o curso abordará desde o elementar da linguagem (instalação do software e reconhecimento do layout e suas opções) até aplicações mais complexas como a raspagem de dados da web e elaboração de mapas. De toda maneira, o foco está na “alfabetização” do participante na linguagem R (operações matemáticas, tipos de dados e objetos, operadores relacionais e lógicos, loops e funções) a partir da manipulação de dados em data-frames.
 
 # Roteiro de aula e tutoriais
@@ -41,9 +42,13 @@ dados com R: Uma Introdução. Disponível em: https://cdr.ibpad.com.br/cdr-intr
 Já que o curso propõe uma aprendizagem ativa dos participantes, o encerramento de cada tópico terá um desafio para que solucionem em duplas. Não haverá nota, mas a não entrega de quaisquer um dos desafios retira a certificação da(o) participante. 
 
 Desafio 1
+
 Desafio 2
+
 Desafio 3
+
 Desafio 4
+
 Desafio 5
 
 ## Trabalho Final
