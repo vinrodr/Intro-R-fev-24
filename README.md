@@ -24,20 +24,19 @@ funções. (II)
 # Referências bibliográficas
 
 * Aquino, Jakson Alves de (2014). R para cientistas sociais. Editus.
-
 * Navarro, Danielle; Pedersen, Thomas Lin e Wickham, Hadley (2009). ggplot2: Elegant Graphics for Data Analysis. Ed: Springer.
-
 * Guerra, Saulo; Oliveira, Paulo Felipe de e McDonnell, Robert (2018). Ciência de
 dados com R: Uma Introdução. Disponível em: https://cdr.ibpad.com.br/cdr-intro.pdf
-
 * Grolemund, Garrett (2014). Hands-On Programming with R. Ed: O'Reilly Media.
-
 * Imai, Kosuke (2017). Quantitative Social Science: An Introduction. Ed: Princeton University Press
-
 * Imai, Kosuke e Laudete, Elena (2023). Data analysis for social sciences: A friendly and practical approach. Ed: Princeton University Press.
-
 * Silge, Julia e Robinson, David (2017). Text Mining with R: A Tidy Approach. Ed: O'Reilly Media.
-
 * Wichkam, Hadley e Grolemund, Garrett (2016). R for Data Science. Ed: O'Reilly Media.
-
 * Wichkam, Hadley (2014). Advanced R. Ed: Chapman and Hall/CRC
+
+# Atividades de avaliação
+## Desafios
+
+
+## Trabalho Final
+
