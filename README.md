@@ -47,8 +47,9 @@ dados com R: Uma Introdução. Disponível [aqui](https://cdr.ibpad.com.br/cdr-i
 * Wichkam, Hadley (2014). Advanced R. Ed: Chapman and Hall/CRC. Disponível [aqui](http://adv-r.had.co.nz/)
 
 ## Atividades, tempo de dedicação e recomendações
-* É importante ressaltar que não há motivo para receios. O curso é pensado ajudar as(os) participantes (de quaisquer origens e trajetórias) e não criar maiores dificuldades na aprendizagem. Assim, não há quaisquer pré-requisitos.
-* A cópia de códigos não é recriminada, caso haja indicação de autoria. Como ficará claro ao longo dos encontros, a atividade de programar funciona muito bem de maneira colaborativa. Além disso, PRESCREVEMOS que façam uso dos comentários para tornar seu código de fácil compreensão para outras(os) e para vocês no futuro - não é raro que um script antigo não comentado gere dificuldades e até precise ser reescrito do início.
+* É importante ressaltar que não há motivo para receios. Este curso foi pensado para pessoas que nunca programaram na vida, mas que desejam começar e têm curiosidade em conhecer todas as potencialidades da linguagem! Seja qual for sua origem acadêmica/profissional, NÃO há quaisquer pré-requisitos.
+* A cópia de códigos não é penalizada, caso haja indicação de autoria. Como ficará claro ao longo dos encontros, a atividade de programar funciona muito bem de maneira colaborativa.
+* Além disso, PRESCREVEMOS que façam uso dos comentários para tornar seu código de fácil compreensão para outras(os) e para vocês no futuro - não é raro que um script antigo não comentado gere dificuldades e até precise ser reescrito do início.
 * As 40 horas propostas são suficientes para que a(o) participante supere a barreira de entrada na linguagem de programação, contudo é importante que haja algum esforço posterior extra-classe para fixação do aprendizado. Assim, ao final do calendário, cada participante estará apta(o) a aprimorar suas habilidades de maneira autônoma. E, por isso, precisará entregar um projeto final a ser escolhido por ajuste com o docente.
   
 ### Recursos úteis
