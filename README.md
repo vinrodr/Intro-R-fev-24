@@ -36,7 +36,7 @@ funções. (II)
 
 ## Referências bibliográficas
 * Aquino, Jakson Alves de (2014). R para cientistas sociais. Editus.
-* Navarro, Danielle; Pedersen, Thomas Lin e Wickham, Hadley (2009). ggplot2: Elegant Graphics for Data Analysis. Ed: Springer.
+* Navarro, Danielle; Pedersen, Thomas Lin e Wickham, Hadley (2009). ggplot2: Elegant Graphics for Data Analysis. Ed: Springer. Disponível [aqui](https://ggplot2-book.org/index.html)
 * Guerra, Saulo; Oliveira, Paulo Felipe de e McDonnell, Robert (2018). Ciência de
 dados com R: Uma Introdução. Disponível [aqui](https://cdr.ibpad.com.br/cdr-intro.pdf)
 * Grolemund, Garrett (2014). Hands-On Programming with R. Ed: O'Reilly Media. Disponível [aqui](https://rstudio-education.github.io/hopr/)
