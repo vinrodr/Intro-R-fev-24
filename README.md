@@ -54,7 +54,7 @@ dados com R: Uma Introdução. Disponível [aqui](https://cdr.ibpad.com.br/cdr-i
 ### Recursos úteis
 * O grande livro do R - disponível [aqui](https://www.bigbookofr.com/index.html) - traz os links de mais de 150 livros tutoriais, que estão disponíveis gratuitamente online e tratam dos mais diferentes temas: de big data à arte, de economia a meio-ambiente. Favoritem, pois será muito útil para o desenvolvimento futuro e aprofundamento nas temáticas que lhes forem de interesse.
 * Cheatsheets são mapas de resumo das principais funções de cada biblioteca. Serão grandes parceiras no início do aprendizado. Disponíveis [aqui](https://posit.co/resources/cheatsheets/).
-* [Stack Overflow](https://stackoverflow.com/) será seu novo google. É um site de perguntas e respostas para programadores profissionais e entusiastas, onde você encontra qualquer a resposta para qualquer dúvida que surgir - e caso não tenha ainda uma solução, basta você copiar seu erro ou sua dúvida, que rapidamente terá alguém para responder com uma solução.
+* [Stack Overflow](https://stackoverflow.com/) será seu novo google. É um site de perguntas e respostas para programadores profissionais e entusiastas, onde você encontra resposta para qualquer dúvida que venha a ter - e caso não tenha ainda uma solução publicada, basta você copiar o erro no seu código ou escrever sua dúvida, que rapidamente terá alguém respondendo com uma solução.
 
 ### Desafios
 Já que o curso propõe uma aprendizagem ativa dos participantes, o encerramento de cada tópico terá um desafio para que solucionem em duplas. Não haverá nota, mas a não entrega de quaisquer um dos desafios retira a certificação da(o) participante. 
