@@ -52,10 +52,11 @@ dados com R: Uma Introdução. Disponível [aqui](https://cdr.ibpad.com.br/cdr-i
 * Além disso, PRESCREVEMOS que façam uso dos comentários para tornar seu código de fácil compreensão para outras(os) e para vocês no futuro - não é raro que um script antigo não comentado gere dificuldades e até precise ser reescrito do início.
 * Vocês verão que uma pequena quantidade de tempo é suficiente para acessar uma grande quantidade de aprendizado em R. As 40 horas propostas são suficientes para que a(o) participante supere a barreira de entrada na linguagem de programação, contudo é importante que haja algum esforço posterior extra-classe para fixação do aprendizado. Assim, ao final do calendário, cada participante estará apta(o) a aprimorar suas habilidades de maneira autônoma. E, por isso, precisará entregar um projeto final a ser escolhido por ajuste com o docente.
   
-### Recursos úteis
+### Recursos úteis (Como obter ajuda?)
 * O grande livro do R - disponível [aqui](https://www.bigbookofr.com/index.html) - traz os links de mais de 150 livros tutoriais, que estão disponíveis gratuitamente online e tratam dos mais diferentes temas: de big data à arte, de economia a meio-ambiente. Favoritem, pois será muito útil para o desenvolvimento futuro e aprofundamento nas temáticas que lhes forem de interesse.
 * Cheatsheets são mapas de resumo das principais funções de cada biblioteca. Serão grandes parceiras no início do aprendizado. Disponíveis [aqui](https://posit.co/resources/cheatsheets/).
 * [Stack Overflow](https://stackoverflow.com/) será seu novo google. É um site de perguntas e respostas para programadores profissionais e entusiastas, onde você encontra resposta para qualquer dúvida que venha a ter - e caso não tenha ainda uma solução publicada, basta você copiar o erro no seu código ou escrever sua dúvida, que rapidamente terá alguém respondendo com uma solução. E bônustrack! Não é somente para linguagem R, o site oferece soluções para Python, Julia, SQL, Excel ...
+* "R Studio Help Menu" você acessa os chamados 'Vignettes', que são descrições condensadas do que . Você pode acessar a aba HELP na janela inferior direita do RStudio ou na própria linha de comando, colocando um ponto de interrogação antes do termo que deseja conhecer, por exemplo, ?mutate().
 
 ### Desafios
 Já que o curso propõe uma aprendizagem ativa dos participantes, o encerramento de cada tópico terá um desafio para que solucionem em duplas. Não haverá nota, mas a não entrega de quaisquer um dos desafios retira a certificação da(o) participante. 
