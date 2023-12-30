@@ -39,8 +39,8 @@ funções. (II)
 * Navarro, Danielle; Pedersen, Thomas Lin e Wickham, Hadley (2009). ggplot2: Elegant Graphics for Data Analysis. Ed: Springer.
 * Guerra, Saulo; Oliveira, Paulo Felipe de e McDonnell, Robert (2018). Ciência de
 dados com R: Uma Introdução. Disponível [aqui](https://cdr.ibpad.com.br/cdr-intro.pdf)
-* Grolemund, Garrett (2014). Hands-On Programming with R. Ed: O'Reilly Media. 
-* Imai, Kosuke (2017). Quantitative Social Science: An Introduction. Ed: Princeton University Press
+* Grolemund, Garrett (2014). Hands-On Programming with R. Ed: O'Reilly Media. Disponível [aqui](https://rstudio-education.github.io/hopr/)
+* Imai, Kosuke (2017). Quantitative Social Science: An Introduction. Ed: Princeton University Press.
 * Imai, Kosuke e Laudete, Elena (2023). Data analysis for social sciences: A friendly and practical approach. Ed: Princeton University Press.
 * Silge, Julia e Robinson, David (2017). Text Mining with R: A Tidy Approach. Ed: O'Reilly Media. Disponível [aqui](https://www.tidytextmining.com/)
 * Wichkam, Hadley e Grolemund, Garrett (2016). R for Data Science. Ed: O'Reilly Media. Disponível [aqui](https://www.tidytextmining.com/)
@@ -50,6 +50,9 @@ dados com R: Uma Introdução. Disponível [aqui](https://cdr.ibpad.com.br/cdr-i
 * É importante ressaltar que não há motivo para receios. O curso é pensado ajudar as(os) participantes (de quaisquer origens e trajetórias) e não criar maiores dificuldades na aprendizagem. Assim, não há quaisquer pré-requisitos.
 * A cópia de códigos não é recriminada, caso haja indicação de autoria. Como ficará claro ao longo dos encontros, a atividade de programar funciona muito bem de maneira colaborativa. Além disso, PRESCREVEMOS que façam uso dos comentários para tornar seu código de fácil compreensão para outras(os) e para vocês no futuro - não é raro que um script antigo não comentado gere dificuldades e até precise ser reescrito do início.
 * As 40 horas propostas são suficientes para que a(o) participante supere a barreira de entrada na linguagem de programação, contudo é importante que haja algum esforço posterior extra-classe para fixação do aprendizado. Assim, ao final do calendário, cada participante estará apta(o) a aprimorar suas habilidades de maneira autônoma. E, por isso, precisará entregar um projeto final a ser escolhido por ajuste com o docente.
+### Recursos úteis
+* O grande livro do R - disponível [aqui](https://www.bigbookofr.com/index.html) - traz os links de mais de 150 livros tutoriais, que estao disponíveis online gratuitamente e tratam dos mais diferentes temas: de big data à arte, de economia a meio-ambiente. Favoritem, pois será muito útil para o desenvolvimento futuro e aprofundamento nas temáticas que lhes forem de interesse.
+* Cheatsheets são mapas de resumo das principais funções de cada biblioteca. Serão grandes parceiras no início do aprendizado. Disponíveis [aqui](https://posit.co/resources/cheatsheets/).
 
 ### Desafios
 Já que o curso propõe uma aprendizagem ativa dos participantes, o encerramento de cada tópico terá um desafio para que solucionem em duplas. Não haverá nota, mas a não entrega de quaisquer um dos desafios retira a certificação da(o) participante. 
