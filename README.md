@@ -11,7 +11,7 @@ Dentro desta perspectiva, o curso abordará desde o elementar da linguagem (inst
 ## Roteiro das aulas (tutoriais)
 Obs. Tópicos 7 a 10 estão sujeitos a alteração.
 
-[Encontro 1](). Preparação do ambiente computacional: R e RStudio.
+[Encontro 1](https://rpubs.com/vinrodr/encontro_1_introR). Preparação do ambiente computacional: R e RStudio.
 
 [Encontro 2](). Gramática R: Operações matemáticas, tipos de dados, vetores, matrizes, fatores,
 data-frames e listas.
