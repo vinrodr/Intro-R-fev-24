@@ -57,7 +57,7 @@ dados com R: Uma Introdução. Disponível [aqui](https://cdr.ibpad.com.br/cdr-i
 * Cheatsheets são mapas de resumo das principais funções de cada biblioteca. Serão grandes parceiras no início do aprendizado. Disponíveis [aqui](https://posit.co/resources/cheatsheets/).
 * [Stack Overflow](https://stackoverflow.com/) será seu novo google. É um site de perguntas e respostas para programadores profissionais e entusiastas, onde você encontra resposta para qualquer dúvida que venha a ter - e caso não tenha ainda uma solução publicada, basta você copiar o erro no seu código ou escrever sua dúvida, que rapidamente terá alguém respondendo com uma solução. E bônus track! Não é somente para linguagem R, o Stack Overflow oferece soluções para Python, Julia, SQL, Excel ...
 * "R Studio Help Menu" você acessa os chamados 'Vignettes', que são descrições condensadas e com exemplos de uso. Você pode acessá-los na aba HELP da janela inferior direita do RStudio, ou na própria linha de comando, colocando um ponto de interrogação antes do termo que deseja conhecer, por exemplo, ?mutate().
-* A história completa da linguagem R está no artigo: ['A Brief History of S'](https://pdfs.semanticscholar.org/9b48/46f192aa37ca122cfabb1ed1b59866d8bfda.pdf). Sim, o R deriva da linguagem S.
+* A história completa da linguagem R está no artigo: ['A Brief History of S'](https://pdfs.semanticscholar.org/9b48/46f192aa37ca122cfabb1ed1b59866d8bfda.pdf). Sim, você não leu errado. O R deriva da linguagem S ...
 
 ### Desafios
 Já que o curso propõe uma aprendizagem ativa dos participantes, o encerramento de cada tópico terá um desafio para que solucionem em duplas. Não haverá nota, mas a não entrega de quaisquer um dos desafios retira a certificação da(o) participante. 
