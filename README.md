@@ -11,16 +11,13 @@ Dentro desta perspectiva, o curso abordará desde o elementar da linguagem (inst
 ## Roteiro das aulas (tutoriais)
 Obs. Tópicos 7 a 10 estão sujeitos a alteração.
 
-[Encontro 1]().Preparação do ambiente computacional: R e RStudio; e introdução à gramática R: conceitos.
+[Encontro 1](). Preparação do ambiente computacional: R e RStudio. Introdução à gramática R: conceitos e recursos. Melhores práticas para programar.
 
-[Encontro 2](). Gramática R: Operações matemáticas, tipos de dados, vetores, matrizes, fatores,
-data-frames e listas.
+[Encontro 2](). Gramática R: Operadores matemáticos, tipos de dados, classes, vetores, operações com vetores, matrizes, fatores, data-frames e listas. *Special Values*.
 
-[Encontro 3](). Alfabetização em R base: Operadores relacionais e lógicos, condicionais, loops e
-funções. (I)
+[Encontro 3](). Alfabetização em R base: Operadores relacionais e lógicos, condicionais, loops e funções. Indexação, sequências, *subscripting*, *subseting* e *converting*,  (I)
 
-[Encontro 4](). Alfabetização em R base: Operadores relacionais e lógicos, condicionais, loops e
-funções. (II)
+[Encontro 4](). Alfabetização em R base: Operadores relacionais e lógicos, condicionais, loops e funções. Indexação, sequências, *subscripting*, *subseting* e *converting* (II)
 
 [Encontro 5](). O pacote Tidyverse: Manipulação de data-frames em R, tabelas e gráficos. (I)
 
