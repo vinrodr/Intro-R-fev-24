@@ -13,7 +13,7 @@ Obs. Tópicos 7 a 10 estão sujeitos a alteração.
 
 [Encontro 1](). Preparação do ambiente computacional: R e RStudio. Introdução à gramática R: conceitos e recursos. Melhores práticas para programar.
 
-[Encontro 2](). Gramática R: Operadores matemáticos, tipos de dados, classes, vetores, operações com vetores, matrizes, fatores, data-frames e listas. *Special Values*.
+[Encontro 2](). Gramática R: Operadores matemáticos, tipos de dados, classes, vetores, operações com vetores, matrizes, fatores, data-frames e listas. *Special Values* e *coercing*.
 
 [Encontro 3](). Alfabetização em R base: Operadores relacionais e lógicos, condicionais, loops e funções. Indexação, sequências, *subscripting*, *subseting* e *converting*,  (I)
 
