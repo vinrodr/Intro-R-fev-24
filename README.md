@@ -1,7 +1,7 @@
 # Introdução à programação em R (fev-24)
 Curso de introdução à programação em R. 
 
-Ofertado no primeiro semestre de 2024, em modalidade extensionista na Unifesp - _campus EPPEN Osasco_.
+Ofertado no primeiro semestre de 2024, em modalidade extensionista na Unifesp - campus EPPEN Osasco.
 
 ## Apresentação
 O curso pretende oferecer uma iniciação à lógica de programação em linguagem R para os alunas(os) e comunidade UNIFESP. Em específico, propõe-se apresentá- las(los) e treiná-las(los) no uso de ferramentas computacionais para (i)coleta, (ii)organização, (iii) preparação e (iv) apresentação de dados. Neste sentido, não se trata de um curso de estatística, nem de metodologia, mas sim, de iniciação em uma linguagem de programação por meio do aprendizado de suas potencialidades na análise exploratória de dados.
