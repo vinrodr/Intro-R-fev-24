@@ -50,12 +50,6 @@ dados com R: Uma Introdução. Disponível [aqui](https://cdr.ibpad.com.br/cdr-i
 ## Atividades, tempo de dedicação e recomendações
 * É importante ressaltar que não há motivo para receios. Este curso foi pensado para pessoas que nunca programaram na vida, mas que desejam começar e têm curiosidade em conhecer todas as potencialidades da linguagem! Seja qual for sua origem acadêmica/profissional, **não há quaisquer pré-requisitos**. 
 * A cópia de códigos não é penalizada, caso haja indicação de autoria. Como ficará claro ao longo dos encontros, a atividade de programar funciona muito bem de maneira colaborativa.
-Em cada étapa da análise, salientamos os seguintes princípios que ajudam manter a integridade e confiabilidade da nossa análise:
-
-    Transparência - Tudo a análise pode ser inspecionado para rastrear os origens de cada resultado e identificar erros
-    Simplicidade - Digitamos o código de forma mais simples e claro possível para que fica fácil ler e corrigir
-    Reprodutibilidade - Os bancos de dados brutos e o _script_ de análise podem ser compartilhados com uma colega que consegue executa a análise e produzir o resultado idêntico
-    Entender os seus dados - A análise deve nos ajudar entender - e não esconder - o conteúdo dos nossos dados
 
 > [!TIP] 
 > **Comentem seu código!**
