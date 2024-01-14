@@ -12,9 +12,7 @@ O curso pretende oferecer uma iniciação à lógica de programação em linguag
 
 Dentro desta perspectiva, o curso abordará desde o elementar da linguagem (instalação do software e reconhecimento do layout e suas opções) até aplicações mais complexas como a raspagem de dados da web e elaboração de mapas. De toda maneira, o foco está na “alfabetização” do participante na linguagem R (operações matemáticas, tipos de dados e objetos, operadores relacionais e lógicos, loops e funções) a partir da manipulação de dados em data-frames.
 
-<h2 align="center"> Roteiro das aulas (tutoriais) </h2>
-<p align="center">
-
+## Roteiro das aulas (tutoriais)
 Obs. Tópicos 7 a 10 estão sujeitos a alteração.
 
 [Encontro 1](https://github.com/vinrodr/Intro-R-fev-24/blob/main/Tutoriais/Tutorial%201.Rmd). Preparação do ambiente computacional: R e RStudio. Introdução à gramática R: conceitos e recursos. Melhores práticas para programar. (em [Rpubs](https://rpubs.com/vinrodr/encontro_1_introR))
@@ -51,13 +49,17 @@ dados com R: Uma Introdução. Disponível [aqui](https://cdr.ibpad.com.br/cdr-i
 * Wichkam, Hadley (2014). Advanced R. Ed: Chapman and Hall/CRC. Disponível [aqui](http://adv-r.had.co.nz/)
 
 ## Atividades, tempo de dedicação e recomendações
+
 > [!NOTE]
 > É importante ressaltar que não há motivo para receios. Este curso foi pensado para pessoas que nunca programaram na vida, mas que desejam começar e têm curiosidade em conhecer todas as potencialidades da linguagem! Seja qual for sua origem acadêmica/profissional, **não há quaisquer pré-requisitos**. 
+
 > [!NOTE]
 > A cópia de códigos não é penalizada, caso haja indicação de autoria. Como ficará claro ao longo dos encontros, a atividade de programar funciona muito bem de maneira colaborativa.
+
 > [!TIP] 
 > **Comentem seu código!**
 > Em cada etapa de seu _script_ (e da análise de dados que ele irá processar) é importante observar os princípios da transparência e da reprodutibilidade. O que significa adotar práticas que tornem possíveis o rastreamento das origens de cada resultado e a identificação de eventuais erros. Na prática, isso quer dizer que digitamos o código da maneira mais clara e simples possível, além de comentar as escolhas e os pontos-chave do _script_. O console do R irá ignorar qualquer texto colocado na linha após um _hashtag_ (#), pois interpreta como um _não-comando_. (Além disso, o uso de comentários facilita na lembrança das escolhas que vocês tomaram na escrita. E, acreditem, vocês não irão se lembrar de algo que escreveram há poucos dias).
+
 > [!IMPORTANT]
 > Vocês verão que uma pequena quantidade de tempo é suficiente para acessar uma grande quantidade de aprendizado em R. As 40 horas propostas são suficientes para que a(o) participante supere a barreira de entrada na linguagem de programação, contudo é importante que haja algum esforço posterior extra-classe para fixação do aprendizado. Assim, ao final do calendário, cada participante estará apta(o) a aprimorar suas habilidades de maneira autônoma. E, por isso, precisará entregar um projeto final a ser escolhido por ajuste com o docente.
   
