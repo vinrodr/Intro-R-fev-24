@@ -48,7 +48,7 @@ dados com R: Uma Introdução. Disponível [aqui](https://cdr.ibpad.com.br/cdr-i
 * Wichkam, Hadley (2014). Advanced R. Ed: Chapman and Hall/CRC. Disponível [aqui](http://adv-r.had.co.nz/)
 
 ## Atividades, tempo de dedicação e recomendações
-* É importante ressaltar que não há motivo para receios. Este curso foi pensado para pessoas que nunca programaram na vida, mas que desejam começar e têm curiosidade em conhecer todas as potencialidades da linguagem! Seja qual for sua origem acadêmica/profissional, NÃO há quaisquer pré-requisitos. 
+* É importante ressaltar que não há motivo para receios. Este curso foi pensado para pessoas que nunca programaram na vida, mas que desejam começar e têm curiosidade em conhecer todas as potencialidades da linguagem! Seja qual for sua origem acadêmica/profissional, **não há quaisquer pré-requisitos**. 
 * A cópia de códigos não é penalizada, caso haja indicação de autoria. Como ficará claro ao longo dos encontros, a atividade de programar funciona muito bem de maneira colaborativa.
 > [!TIP]
 > Comentem seu código! O console do R ignora qualquer texto colocado na linha após um _hashtag_ (#) e interpreta como um 'não-comando'. O uso de comentários é uma boa prática para qualquer programador, pois facilita a compreensão do script para outras pessoas e, talvez mais importante, ajuda na lembrança das escolhas que vocês tomaram na escrita. Acreditem, vocês não irão se lembrar do código escrito na semana passada.
