@@ -57,7 +57,8 @@ Em cada étapa da análise, salientamos os seguintes princípios que ajudam mant
     Reprodutibilidade - Os bancos de dados brutos e o _script_ de análise podem ser compartilhados com uma colega que consegue executa a análise e produzir o resultado idêntico
     Entender os seus dados - A análise deve nos ajudar entender - e não esconder - o conteúdo dos nossos dados
 
-> [!TIP] **Comentem seu código**
+> [!TIP] 
+> **Comentem seu código!**
 > Em cada etapa de seu _script_ (e da análise de dados que ele irá processar) é importante observar os princípios da transparência e da reprodutibilidade. O que significa adotar práticas que tornem possíveis o rastreamento das origens de cada resultado e a identificação de eventuais erros. Na prática, isso quer dizer que digitamos o código da maneira mais clara e simples possível, além de comentar suas escolhas e pontos chave de seu _script_. O console do R irá ignorar qualquer texto colocado na linha após um _hashtag_ (#), pois o interpreta como um 'não-comando'. (Além disso, o uso de comentários facilita na lembrança das escolhas que vocês tomaram na escrita. E, acreditem, vocês não irão se lembrar de algo que escreveram há poucos dias).
 
 > [!IMPORTANT]
