@@ -6,8 +6,8 @@ Curso de introdução à programação em R. Ofertado no primeiro semestre de 20
 
 > Exceto quando indicado diretamente, este trabalho está licenciado sob <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons BY-NC-SA 4.0</a>.
 
-<h2 align="center"> Apresentação </h2>
-<p align="center">
+<h2 align="center"> Apresentação </h2> <p align="center">
+  
 O curso pretende oferecer uma iniciação à lógica de programação em linguagem R para os alunas(os) e comunidade UNIFESP. Em específico, propõe-se apresentá- las(los) e treiná-las(los) no uso de ferramentas computacionais para (i)coleta, (ii)organização, (iii) preparação e (iv) apresentação de dados. Neste sentido, não se trata de um curso de estatística, nem de metodologia, mas sim, de iniciação em uma linguagem de programação por meio do aprendizado de suas potencialidades na análise exploratória de dados.
 
 Dentro desta perspectiva, o curso abordará desde o elementar da linguagem (instalação do software e reconhecimento do layout e suas opções) até aplicações mais complexas como a raspagem de dados da web e elaboração de mapas. De toda maneira, o foco está na “alfabetização” do participante na linguagem R (operações matemáticas, tipos de dados e objetos, operadores relacionais e lógicos, loops e funções) a partir da manipulação de dados em data-frames.
@@ -35,8 +35,8 @@ Obs. Tópicos 7 a 10 estão sujeitos a alteração.
 
 [Encontro 10](). Aplicações: Mapas e GIS.
 
-<h2 align="center"> Referências bibliográficas </h2>
-<p align="center">
+<h2 align="center"> Referências bibliográficas </h2> <p align="center">
+
 * Aquino, Jakson Alves de (2014). R para cientistas sociais. Editus.
 * Navarro, Danielle; Pedersen, Thomas Lin e Wickham, Hadley (2009). ggplot2: Elegant Graphics for Data Analysis. Ed: Springer. Disponível [aqui](https://ggplot2-book.org/index.html)
 * Guerra, Saulo; Oliveira, Paulo Felipe de e McDonnell, Robert (2018). Ciência de
