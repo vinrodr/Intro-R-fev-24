@@ -1,4 +1,8 @@
 <h1 align="center"> Introdução à programação em R (fev-24) </h1>
+<p align="center">
+<img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
+</p>
+
 Curso de introdução à programação em R. Ofertado no primeiro semestre de 2024, em modalidade extensionista na Unifesp - campus EPPEN Osasco.
 
 * Exceto quando indicado diretamente, este trabalho está licenciado sob <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons BY-NC-SA 4.0</a>.
