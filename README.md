@@ -56,14 +56,14 @@ dados com R: Uma Introdução. Disponível [aqui](https://cdr.ibpad.com.br/cdr-i
 > [!IMPORTANT]
 > Vocês verão que uma pequena quantidade de tempo é suficiente para acessar uma grande quantidade de aprendizado em R. As 40 horas propostas são suficientes para que a(o) participante supere a barreira de entrada na linguagem de programação, contudo é importante que haja algum esforço posterior extra-classe para fixação do aprendizado. Assim, ao final do calendário, cada participante estará apta(o) a aprimorar suas habilidades de maneira autônoma. E, por isso, precisará entregar um projeto final a ser escolhido por ajuste com o docente.
   
-### Recursos úteis (Como obter ajuda?)
+## Recursos úteis (Como obter ajuda?)
 * O grande livro do R - disponível [aqui](https://www.bigbookofr.com/index.html) - traz os links de mais de 150 livros tutoriais, que estão disponíveis gratuitamente online e tratam dos mais diferentes temas: de big data à arte, de economia a meio-ambiente. Favoritem, pois será muito útil para o desenvolvimento futuro e aprofundamento nas temáticas que lhes forem de interesse.
 * Cheatsheets são sínteses das principais funções de cada biblioteca. Serão grandes parceiras no início do aprendizado. Disponíveis [aqui](https://posit.co/resources/cheatsheets/).
 * [Stack Overflow](https://stackoverflow.com/) será seu novo google. É um site de perguntas e respostas para programadores profissionais e entusiastas, onde você encontra resposta para qualquer dúvida que venha a ter - e caso não tenha ainda uma solução publicada, basta você copiar o erro no seu código ou escrever sua dúvida, que rapidamente terá alguém respondendo com uma solução. E bônus track! Não é somente para linguagem R, o Stack Overflow oferece soluções para Python, Julia, SQL, Excel ...
 * "R Studio Help Menu" você acessa os chamados 'Vignettes', que são descrições condensadas e com exemplos de uso. Você pode acessá-los na aba HELP da janela inferior direita do RStudio, ou na própria linha de comando, colocando um ponto de interrogação antes do termo que deseja conhecer, por exemplo, ?mutate().
 * A história completa da linguagem R está no artigo: ['A Brief History of S'](https://pdfs.semanticscholar.org/9b48/46f192aa37ca122cfabb1ed1b59866d8bfda.pdf). Sim, você não leu errado. O R deriva da linguagem S ...
 
-### Desafios
+## Desafios
 Já que o curso propõe uma aprendizagem ativa dos participantes, o encerramento de cada tópico terá um desafio para que solucionem em duplas. Não haverá nota, mas a não entrega de quaisquer um dos desafios retira a certificação da(o) participante. 
 
 [Desafio 1](). - Alfabetização em R base e conceitos iniciais
@@ -72,6 +72,6 @@ Já que o curso propõe uma aprendizagem ativa dos participantes, o encerramento
 
 [Desafio 3](). - Visualização de dados e produção de gráficos com ggplot2
 
-### Trabalho Final
+## Trabalho Final
 Como um produto melhor acabado do esforço de cada participante e requisito da certificação, o projeto final será autoral. Recomendamos fortemente que ele faça sentido para seu próprio trabalho/pesquisa/estudo.
 Igualmente aos desafios, não haverá nota. Mas a não entrega retira a certificação da(o) participante.
