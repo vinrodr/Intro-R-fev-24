@@ -50,10 +50,17 @@ dados com R: Uma Introdução. Disponível [aqui](https://cdr.ibpad.com.br/cdr-i
 ## Atividades, tempo de dedicação e recomendações
 * É importante ressaltar que não há motivo para receios. Este curso foi pensado para pessoas que nunca programaram na vida, mas que desejam começar e têm curiosidade em conhecer todas as potencialidades da linguagem! Seja qual for sua origem acadêmica/profissional, **não há quaisquer pré-requisitos**. 
 * A cópia de códigos não é penalizada, caso haja indicação de autoria. Como ficará claro ao longo dos encontros, a atividade de programar funciona muito bem de maneira colaborativa.
-> [!TIP]
-> Comentem seu código! O console do R ignora qualquer texto colocado na linha após um _hashtag_ (#) e interpreta como um 'não-comando'. O uso de comentários é uma boa prática para qualquer programador, pois facilita a compreensão do script para outras pessoas e, talvez mais importante, ajuda na lembrança das escolhas que vocês tomaram na escrita. Acreditem, vocês não irão se lembrar do código escrito na semana passada.
+Em cada étapa da análise, salientamos os seguintes princípios que ajudam manter a integridade e confiabilidade da nossa análise:
 
-> [!IMPORTANT]
+    Transparência - Tudo a análise pode ser inspecionado para rastrear os origens de cada resultado e identificar erros
+    Simplicidade - Digitamos o código de forma mais simples e claro possível para que fica fácil ler e corrigir
+    Reprodutibilidade - Os bancos de dados brutos e o _script_ de análise podem ser compartilhados com uma colega que consegue executa a análise e produzir o resultado idêntico
+    Entender os seus dados - A análise deve nos ajudar entender - e não esconder - o conteúdo dos nossos dados
+
+> [!DICA: Comentem seu código]
+> Em cada etapa de seu _script_ (e da análise de dados que ele irá processar) é importante observar os princípios da transparência e da reprodutibilidade. O que significa adotar práticas que tornem possíveis o rastreamento das origens de cada resultado e a identificação de eventuais erros. Na prática, isso quer dizer que digitamos o código da maneira mais clara e simples possível, além de comentar suas escolhas e pontos chave de seu _script_. O console do R irá ignorar qualquer texto colocado na linha após um _hashtag_ (#), pois o interpreta como um 'não-comando'. (Além disso, o uso de comentários facilita na lembrança das escolhas que vocês tomaram na escrita. E, acreditem, vocês não irão se lembrar de algo que escreveram há poucos dias).
+
+> [!IMPORTANTE]
 > Vocês verão que uma pequena quantidade de tempo é suficiente para acessar uma grande quantidade de aprendizado em R. As 40 horas propostas são suficientes para que a(o) participante supere a barreira de entrada na linguagem de programação, contudo é importante que haja algum esforço posterior extra-classe para fixação do aprendizado. Assim, ao final do calendário, cada participante estará apta(o) a aprimorar suas habilidades de maneira autônoma. E, por isso, precisará entregar um projeto final a ser escolhido por ajuste com o docente.
   
 ## Recursos úteis (Como obter ajuda?)
