@@ -54,7 +54,7 @@ dados com R: Uma Introdução. Disponível [aqui](https://cdr.ibpad.com.br/cdr-i
 > É importante ressaltar que não há motivo para receios. Este curso foi pensado para pessoas que nunca programaram na vida, mas que desejam começar e têm curiosidade em conhecer todas as potencialidades da linguagem! Seja qual for sua origem acadêmica/profissional, **não há quaisquer pré-requisitos**. 
 
 > [!NOTE]
-> A cópia de códigos não é penalizada, caso haja indicação de autoria. Como ficará claro ao longo dos encontros, a atividade de programar funciona muito bem de maneira colaborativa.
+> A cópia de códigos não é penalizada, **caso haja indicação de autoria**. Como ficará claro ao longo dos encontros, a atividade de programar funciona muito bem de maneira colaborativa e vale a Lei de Lavoisier "Na natureza (como na programação) nada se cria, nada se perde, tudo se transforma" (grifos nossos).
 
 > [!TIP] 
 > **Comentem seu código!**
