@@ -35,7 +35,7 @@ Obs. Tópicos 7 a 10 estão sujeitos a alteração.
 
 [Encontro 10](). Aplicações: Mapas e GIS.
 
-<h2 align="center"> Referências bibliográficas </h2> <p align="center">
+## Referências bibliográficas
 
 * Aquino, Jakson Alves de (2014). R para cientistas sociais. Editus.
 * Navarro, Danielle; Pedersen, Thomas Lin e Wickham, Hadley (2009). ggplot2: Elegant Graphics for Data Analysis. Ed: Springer. Disponível [aqui](https://ggplot2-book.org/index.html)
