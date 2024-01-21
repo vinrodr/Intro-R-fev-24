@@ -2,7 +2,7 @@
 <p align="center">
 <img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=Primeira%20Oferta&color=GREEN&style=for-the-badge"/>
 </p>
-Curso de introdução à programação em R. Ofertado no primeiro semestre de 2024, em modalidade extensionista na Unifesp - campus EPPEN Osasco.
+Curso de introdução à programação em R. Ofertado em modalidade extensionista no primeiro semestre de 2024 na Unifesp - campus EPPEN Osasco.
 
 > Exceto quando indicado diretamente, este trabalho está licenciado sob <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons BY-NC-SA 4.0</a>.
 
