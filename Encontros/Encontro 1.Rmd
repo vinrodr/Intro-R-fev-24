@@ -21,7 +21,7 @@ Quero que tenham isso em mente e fiquem completamente tranquilas e tranquilos qu
 ### Roteiro para a aula
 1. Questões burocráticas, apresentação do curso, discussão do programa e survey da turma.
 
-2. Em seguida, apresento o ambiente computacional do R e do RStudio [Tutorial 1](https://rpubs.com/vinrodr/tutorial_1_introR)
+2. Em seguida, apresento o ambiente computacional do R e do RStudio [Tutorial 1](https://github.com/vinrodr/Intro-R-fev-24/blob/main/Tutoriais/Tutorial%202.Rmd) - em [Rpubs](https://rpubs.com/vinrodr/tutorial_1_introR).
 
 3. Por fim, mãos à obra: o básico da linguagem R. O [Tutorial 2](https://rpubs.com/vinrodr/tutorial_2_introR) traz conceitos básicos da linguagem, antes de avançarmos em soluções e código propriamente. 
 
