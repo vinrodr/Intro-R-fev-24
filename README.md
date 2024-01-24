@@ -16,9 +16,9 @@ Dentro desta perspectiva, o curso abordará desde o elementar da linguagem (inst
 ## Roteiro das aulas (tutoriais)
 Obs. Tópicos 7 a 10 estão sujeitos a alteração.
 
-[Encontro 1](https://github.com/vinrodr/Intro-R-fev-24/blob/main/Encontros/Encontro%201.Rmd). (em [Rpubs](https://rpubs.com/vinrodr/encontro_1_introR)). Preparação do ambiente computacional: R e RStudio. Introdução à gramática R: conceitos e recursos. Melhores práticas para programar. 
+[Encontro 1](https://github.com/vinrodr/Intro-R-fev-24/blob/main/Encontros/Encontro%201.Rmd). (em [Rpubs](https://rpubs.com/vinrodr/encontro_1_introR)). Preparação do ambiente computacional: R e RStudio. Introdução à gramática R: conceitos e recursos. Melhores práticas para programar. Operadores matemáticos e vetores atômicos.
 
-[Encontro 2](). Gramática R: Operadores matemáticos, tipos de dados, classes, vetores, operações com vetores, matrizes, fatores, data-frames e listas. *Special Values* e *coercing*.
+[Encontro 2](). Gramática R: Tipos de dados, classes, vetores, operações com vetores, matrizes, fatores, data-frames e listas. *Special Values* e *coercing*.
 
 [Encontro 3](). Alfabetização em R base: Operadores relacionais e lógicos, condicionais, loops e funções. Indexação, sequências, *subscripting*, *subseting* e *converting*,  (I)
 
