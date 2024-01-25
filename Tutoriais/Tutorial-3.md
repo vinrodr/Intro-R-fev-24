@@ -105,19 +105,8 @@ valor na lista entre parênteses. Veja o exemplo abaixo:
 curso[1]
 nota <- curso[1]
 ```
-
-Primeiro eu coloquei um comando para que o valor na primeira posição da lista fosse
-mostrado. E o resultado foi o numeral 10. 
-
-Na segunda linha, além de ordenar esta ação, eu guardei o resultado no objeto
-nota que eu criei pelo **_assignment_**. 
-
-**É importante perceber isso**: caso você não crie um objeto para guardar alguma 
-informação, o R só irá executar a tarefa e mostrar seu resultado.
-
-O caminho inverso ao *subscripting* é a **_indexação_**, que ocorre quando
-eu atribuo um valor a uma posição de um objeto, por exemplo, quando eu
-atribuo que a posição \[1,2\] da matriz valerá 300.
+> [!NOTE]
+Primeiro eu coloquei um comando para que o valor na primeira posição da lista fosse mostrado. E o resultado foi o numeral 10. Na segunda linha, além de ordenar esta ação, eu guardei o resultado no objeto nota que eu criei pelo **_assignment_**. É importante perceber isso: caso você não crie um objeto para guardar alguma informação, o R só irá executar a tarefa e mostrar seu resultado. O caminho inverso ao *subscripting* é a **_indexação_**, que ocorre quando eu atribuo um valor a uma posição de um objeto, por exemplo, quando eu atribuo que a posição \[1,2\] da matriz valerá 300.
 
 ## Objetos derivados: Matriz
 
