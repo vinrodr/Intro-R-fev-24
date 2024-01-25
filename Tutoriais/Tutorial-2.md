@@ -1,8 +1,8 @@
 Tutorial 2
 ================
 
-## R Base
-
+R Base
+---
 Lembremos que o R é uma linguagem funcional de alto nível direcionada a
 objetos. E o que isso quer dizer? Vimos que é funcional por ser
 implementada a partir de um roteiro de comandos (funções), mas o que
@@ -62,8 +62,8 @@ análises, números, documentos, data-frames, funções, endereços web …)
 são efetivamente objetos - e olha que facilidade: estarão todos no seu
 global environment.
 
-## O console
-
+O console
+---
 A linha de comando do R (painel abaixo à esquerda) só admite que o
 usuário encaminhe um comando de cada vez. É o próprio software R
 incorporado no R Studio. Ele aparece com o símbolo *\>* quando está
@@ -111,8 +111,8 @@ diretamente no console, já que o script permaneceria errado. Assim,
 quando surgir o sinal de espera, use a tecla *esc* para sair da espera e
 corrija o código.
 
-## Criando objetos no R: Sintaxe básica de comandos
-
+Criando objetos no R: Sintaxe básica de comandos
+---
 - Há algumas regras na estrutura da linguagem R.
 
   - todas as funções precedem parênteses *ex. read.csv()*
@@ -193,8 +193,8 @@ como:
 >
 > **qualquer_nome \<- atributos_do_objeto_criado**
 
-## Mas espere, de onde o R armazena e de onde ele pega seus arquivos?
-
+Mas espere, de onde o R armazena e de onde ele pega seus arquivos?
+---
 Quando você der o comando *q()*, o R irá iniciar o fechamento do
 programa. Mas isso nos ajuda a entender conceitos importantes: a área
 virtual, a sessão e o diretório de trabalho ( *workspace*).
@@ -228,8 +228,8 @@ sequencial. Portanto, não guarda nenhum dos objetos que você trabalhou.
 Repetindo para fixar: O script (arquivo no formato .R) e o Global
 Environment (arquivo no formato .RData) devem ser salvos separadamente!
 
-## Funções também são objetos: Visualizar e Apagar objetos
-
+Funções também são objetos: Visualizar e Apagar objetos
+---
 Por vezes você terá muitos objetos em seu environment e ao invés de
 ficar procurando na barra de rolagem do painel, usará a função:
 
@@ -254,8 +254,8 @@ gravar periodicamente seu workspace.
 Mais um lembrete! Caso não dê um nome, possivelmente o arquivo ficará em
 sua pasta de arquivos ocultos!
 
-## Errors and Warnings
-
+Errors and Warnings
+---
 Retomamos a ideia de linguagem aqui, para diferenciar dos idiomas
 humanos. Enquanto um pequeno erro não costuma gerar grandes problemas de
 compreensão para uma conversa entre amigos, caso você cometa um pequeno
@@ -295,16 +295,16 @@ log(-5)
 
     ## [1] NaN
 
-## Linguagem voltada a objetos
-
+Linguagem voltada a objetos
+---
 **O R aceita uma grande quantidade de tipos de objetos e isso é uma das
 forças da linguagem**. Mas acaba sendo difícil apresentar cada um dos
 tipos por este mesmo motivo.
 
-Mas vejamos alguns tipos mais comuns:
+Mas vejamos alguns tipos mais comuns.
 
-## Operações matemáticas e vetores atômicos
-
+Operações matemáticas e vetores atômicos
+---
 Caso você não soubesse nada a respeito da sintaxe do R, muito
 provavelmente não teria dificuldade em usar seu console como uma
 calculadora para operações matemáticas simples.
@@ -472,8 +472,8 @@ class(Unifesp)
 class(uniFESP)
 ```
 
-## Trabalhando com *NULL*, *NA* e *NaN*
-
+Trabalhando com *Special Values* (NULL, NA e NaN)
+---
 Por vezes precisamos criar um objeto vazio, que receberá informações em
 alguma reiteração de comandos. É bem comum criarmos um objeto vazio, que
 irá receber linhas de maneira repetida e formarão um data-frame ao
