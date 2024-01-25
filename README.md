@@ -18,23 +18,23 @@ Obs. Tópicos 7 a 10 estão sujeitos a alteração.
 
 [Encontro 1](Encontros/Encontro-1.md). (em [Rpubs](https://rpubs.com/vinrodr/encontro_1_introR_pubs)). Preparação do ambiente computacional: R e RStudio. Introdução à gramática R: conceitos e recursos. Melhores práticas para programar. Operadores matemáticos e vetores atômicos.
 
-[Encontro 2](). Gramática R: Vetores e objetos derivados: conjuntos, listas, matrizes, fatores e _data-frames_. *Special Values* e *coercing*.
+[Encontro 2](). (em [Rpubs]()). Gramática R: Vetores e objetos derivados: conjuntos, listas, matrizes, fatores e _data-frames_. *Special Values* e *coercing*.
 
-[Encontro 3](). Alfabetização em R base: Operadores relacionais e lógicos, condicionais, loops e funções. Indexação, sequências, *subscripting*, *subseting* e *converting*,  (I)
+[Encontro 3](). (em [Rpubs]()). Alfabetização em R base: Operadores relacionais e lógicos, condicionais, loops e funções. Indexação, sequências, *subscripting*, *subseting* e *converting*,  (I)
 
-[Encontro 4](). Alfabetização em R base: Operadores relacionais e lógicos, condicionais, loops e funções. Indexação, sequências, *subscripting*, *subseting* e *converting* (II)
+[Encontro 4](). (em [Rpubs]()). Alfabetização em R base: Operadores relacionais e lógicos, condicionais, loops e funções. Indexação, sequências, *subscripting*, *subseting* e *converting* (II)
 
-[Encontro 5](). O pacote Tidyverse: Manipulação de data-frames em R, tabelas e gráficos. (I)
+[Encontro 5](). (em [Rpubs]()). O pacote Tidyverse: Manipulação de data-frames em R, tabelas e gráficos. (I)
 
-[Encontro 6](). O pacote Tidyverse: Visualização de dados e o pacote ggplot2. (II)
+[Encontro 6](). (em [Rpubs]()). O pacote Tidyverse: Visualização de dados e o pacote ggplot2. (II)
 
-[Encontro 7](). Aplicações: Raspagem de dados na internet.
+[Encontro 7](). (em [Rpubs]()). Aplicações: Raspagem de dados na internet.
 
-[Encontro 8](). Aplicações: Soluções via API de terceiros (basedosdados).
+[Encontro 8](). (em [Rpubs]()). Aplicações: Soluções via API de terceiros (basedosdados).
 
-[Encontro 9](). Aplicações: Mineração de textos com R.
+[Encontro 9](). (em [Rpubs]()). Aplicações: Mineração de textos com R.
 
-[Encontro 10](). Aplicações: Mapas e GIS.
+[Encontro 10](). (em [Rpubs]()). Aplicações: Mapas e GIS.
 
 ## Referências bibliográficas
 
