@@ -29,11 +29,11 @@ ou em qualquer outra linguagem de programação).
     e survey da turma.
 
 2.  Em seguida, apresento o ambiente computacional do R e do RStudio
-    [Tutorial 1](Tutoriais/Tutorial-1.md) - com outputs em
+    [Tutorial 1](../Tutoriais/Tutorial-1.md) - com outputs em
     [Rpubs](https://rpubs.com/vinrodr/tutorial_1_introR_pubs)
 
 3.  Por fim, mãos à obra: o básico da linguagem R. O [Tutorial
-    2](Tutoriais/Tutorial-2.md) -em
+    2](../Tutoriais/Tutorial-2.md) -em
     [Rpubs](https://rpubs.com/vinrodr/tutorial_2_introR_pubs)- traz
     conceitos básicos da linguagem, antes de avançarmos em soluções e
     código propriamente.
@@ -43,7 +43,7 @@ ou em qualquer outra linguagem de programação).
     finalizar, façam o exercício de fixação abaixo. A proposta é trazer
     os erros mais comuns para que vocês corrijam. Não se engane: embora
     sejam bem simples, acontecem muito! [Fix the
-    code](Tutoriais/fix-the-code.md) - em
+    code](../Tutoriais/fix-the-code.md) - em
     [Rpubs](https://rpubs.com/vinrodr/fixthecode_intror_pubs)
 
 ## Extra-classe
