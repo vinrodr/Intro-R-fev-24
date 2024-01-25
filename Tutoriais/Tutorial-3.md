@@ -1,15 +1,17 @@
 Tutorial 3
 ================
 
-## Antes de avançar, um passo atrás
-
+Antes de avançar, um passo atrás
+---
 Vamos retomar de onde paramos e aproveitar para relembrar. Tínhamos
 visto por cima o que seriam variáveis (colunas do date-frame e objetos)
 e vetores (objetos) para o R, mas vamos melhorar isso um pouco.
 
 O vetor é um termo polissêmico na linguagem R. Admintindo 3
-significados: - vetor atômico. - objeto sem atributos. - objeto que tem
-comprimento.
+significados: 
+* vetor atômico.
+* objeto sem atributos.
+* objeto que tem comprimento.
 
 Assim, quando nos referirmos ao atomic vector estamos falando do
 primeiro significado, mas abreviamos como vector para não ficar
@@ -79,8 +81,8 @@ objeto quando você repousar o cursor do mouse sobre o objeto no Global
 Environment. A segunda maneira é usando a função *str()*; e, por fim,
 usando *class()*.
 
-## Objetos derivados: Listas
-
+Objetos derivados: Listas
+---
 As listas são objetos formados por conjuntos de valores de tipos
 diferentes. É um caso específico de conjunto e é bem útil para raspagem
 de páginas web e iteração em funções.
@@ -96,7 +98,7 @@ valores atômicos, quanto outras listas/conjuntos/outros objetos.
 Além disso, a lista é um conjunto ordenado de valores. Assim, como no
 conjunto, cada valor assume uma posição na lista e é a partir desta
 informação que podemos utilizar/controlar a lista. A ação utilizada para
-isso é chamada de *subscripting* e é realizada selecionando a posição do
+isso é chamada de **_subscripting_** e é realizada selecionando a posição do
 valor na lista entre parênteses. Veja o exemplo abaixo:
 
 ``` r
@@ -104,14 +106,16 @@ curso[1]
 nota <- curso[1]
 ```
 
-Primeiro eu ordenei que o valor na primeira posição da lista fosse
-mostrado. E o resultado foi o numeral 10. Na segunda linha, além de
-ordenar esta ação, eu guardei o resultado no objeto nota que eu criei
-pelo *assignment*. **É importante perceber isso**: caso você não crie um
-objeto para guardar alguma informação, o R só irá executar a tarefa e
-mostrar seu resultado.
+Primeiro eu coloquei um comando para que o valor na primeira posição da lista fosse
+mostrado. E o resultado foi o numeral 10. 
 
-O caminho inverso ao *subscripting* é a **indexação**, que ocorre quando
+Na segunda linha, além de ordenar esta ação, eu guardei o resultado no objeto
+nota que eu criei pelo **_assignment_**. 
+
+**É importante perceber isso**: caso você não crie um objeto para guardar alguma 
+informação, o R só irá executar a tarefa e mostrar seu resultado.
+
+O caminho inverso ao *subscripting* é a **_indexação_**, que ocorre quando
 eu atribuo um valor a uma posição de um objeto, por exemplo, quando eu
 atribuo que a posição \[1,2\] da matriz valerá 300.
 
@@ -119,9 +123,9 @@ atribuo que a posição \[1,2\] da matriz valerá 300.
 
 Uma matriz ( *matrix*) são objetos com dados dispostos de maneira
 retangular. São estudadas na matemática amplamente por meio da algebra
-linear, principalmente. Assim, matrizes são objetos (vector) que
+linear, principalmente. Assim, matrizes são objetos (_vector_) que
 apresentam em seu argumento as suas dimensões (largura e altura). A
-dimensão *length* da matriz é o número de linhas pelo número de colunas.
+dimensão (*length*) da matriz é o número de linhas pelo número de colunas.
 Um exemplo de matriz é dado abaixo:
 
 ``` r
@@ -135,16 +139,16 @@ matrix(1:15, 5)
     ## [4,]    4    9   14
     ## [5,]    5   10   15
 
-## Objetos derivados: Data-frame
-
+Objetos derivados: Data-frame
+---
 Um data-frame é também um objeto com dados dispostos de maneira
 retangular, mas diferentemente da matriz, pode apresentar valores de
 classes diferentes em suas colunas. Por óbvio, a matriz só admite uma
 classe de atomic vectors. Iremos ver como trabalhar com data-frames em
 breve, por enquanto basta esta definição.
 
-## Funções também são objetos: Help (I)
-
+Funções também são objetos: Help (I)
+---
 O comando mais utilizado no R é a função help. Não se engane achando que
 ela só vale para iniciantes! A quantidade de comandos e pacotes é tão
 grande que se torna impraticável decorar tudo em seus detalhes. Lembre
@@ -155,8 +159,8 @@ Assim, qualquer objeto do R pode ter seu Vignettes (breve sumário)
 aberto no painel de output pelo comando *help()* ou inserindo uma
 interrogação antes daquilo que deseja conhecer, ex. ?srqt()
 
-## Funções também são objetos (II)
-
+Funções também são objetos (II)
+---
 O R em sua forma mais básica pode ser uma calculadora, vamos relembrar
 os operadores matemáticos:
 
@@ -196,8 +200,8 @@ observações.
  8 %in% c(2,3,4,5)
 ```
 
-## Funções também são objetos: Visualizar e Apagar objetos (III)
-
+Funções também são objetos: Visualizar e Apagar objetos (III)
+---
 Por vezes você terá muitos objetos em seu environment e ao invés de
 ficar procurando na barra de rolagem do painel, usará a função:
 
@@ -222,8 +226,8 @@ gravar periodicamente seu workspace.
 Mais um lembrete! Caso não dê um nome, possivelmente o arquivo ficará em
 sua pasta de arquivos ocultos!
 
-## Errors and Warnings
-
+Errors and Warnings
+---
 Retomamos a ideia de linguagem aqui, para diferenciar dos idiomas
 humanos. Enquanto um pequeno erro não costuma gerar grandes problemas de
 compreensão para uma conversa entre amigos, caso você cometa um pequeno
