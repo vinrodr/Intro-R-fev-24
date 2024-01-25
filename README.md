@@ -18,7 +18,7 @@ Obs. Tópicos 7 a 10 estão sujeitos a alteração.
 
 [Encontro 1](Encontros/Encontro-1.md). (em [Rpubs](https://rpubs.com/vinrodr/encontro_1_introR_pubs)). Preparação do ambiente computacional: R e RStudio. Introdução à gramática R: conceitos, recursos e melhores práticas para programar. Vetores atômicos e unidimensionais. R calculadora. *Special Values*
 
-[Encontro 2](). (em [Rpubs]()). Gramática R: Vetores e objetos derivados. *Tibbles*. Indexação e *subscripting*. Operadores matemáticos e operadores lógicos.
+[Encontro 2](). (em [Rpubs]()). Gramática R: Vetores e objetos derivados. Indexação e *subscripting*. Subconjuntos. Operadores matemáticos e operadores lógicos.
 
 [Encontro 3](). (em [Rpubs]()). ~~Alfabetização em R base: Cláusulas condicionais, _loops_ e funções.  *coercing* , sequências, , *subseting* e *converting* (I)~~
 
