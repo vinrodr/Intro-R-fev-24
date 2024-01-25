@@ -16,7 +16,7 @@ Dentro desta perspectiva, o curso abordará desde o elementar da linguagem (inst
 ## Roteiro das aulas (tutoriais)
 Obs. Tópicos 7 a 10 estão sujeitos a alteração.
 
-[Encontro 1](Tutoriais/Tutorial-1.md). (em [Rpubs](https://rpubs.com/vinrodr/tutorial_1_introR_pubs)). Preparação do ambiente computacional: R e RStudio. Introdução à gramática R: conceitos e recursos. Melhores práticas para programar. Operadores matemáticos e vetores atômicos.
+[Encontro 1](Encontros/Encontro-1.md). (em [Rpubs](https://rpubs.com/vinrodr/encontro_1_introR_pubs)). Preparação do ambiente computacional: R e RStudio. Introdução à gramática R: conceitos e recursos. Melhores práticas para programar. Operadores matemáticos e vetores atômicos.
 
 [Encontro 2](). Gramática R: Vetores e objetos derivados: conjuntos, listas, matrizes, fatores e _data-frames_. *Special Values* e *coercing*.
 
