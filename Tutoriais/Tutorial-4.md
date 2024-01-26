@@ -151,45 +151,54 @@ a != 32
 isTRUE(a != 32)
 
 # O operador relacional é distinto do operador matemático/símbolo de atribuição
+
 1 = 1
 1 == 1
 
 # Podemos usar objetos e números nos cálculos
+
 temp_celsius <- c(-7, -10, 5, 12, 21)
 farenheit <- ((temp_celsius / 5) * 9) + 32
 farenheit
 
 # Operadores relacionais também vale para textos
+
 "meu texto" == "meu texto"
 "meu texto" = "meu texto"
 "meu texto" == "Meu texto"
 "meu texto" != "Meu texto"
 
 # Objetos string também podem ser ordenados. Lembre-se que os factors são ordenados alfabeticamente por default.
+
 "a" > "b"
 "a" < "b"
 "A" < "b"
 "A" > "a"
 
 # O mesmo vale para palavras ou frases!
+
 "Olga" < "Olga Benário Prestes"
 "cores frias" > "cores quentes"
 
 # E os valores boleanos? Dica: Lembre-se do binário.
+
 TRUE == 1
 FALSE == 0
 TRUE > FALSE 
 
 # Comparar objetos a partir dos valores que armazenam
+
 a <- 4
 b <- 3
 a > b
 
 # Operadores relacionais e vetores
+
 gastos2024 <- c(1020, 800, 990, 345, 203, 3035)
 gastos2024 >= 500
 
 # A comparação entre dois vetores
+
 gastos2023 <- c(1000,900,897,458,200,2200)
 gastos2023 > gastos2024
 
@@ -197,9 +206,11 @@ gastos2023 > gastos2024
 
 # Operadores relacionais + Lógicos (Booleanos)
 # Embora a primeira condição permitisse que o último elemento 2200 fosse TRUE, quando coloco o operador lógico E (&) para uma nova condição: ser diferente de 2200, todos os elementos retornam como FALSE.
+
 gastos2023 > 1000 & gastos2023 !=2200
 
 # O operador lógico "não" reverte uma proposição. 
+
 !TRUE
 !(4 > 2)
 !(gastos2023 > 1000 & gastos2023 <= 300)
