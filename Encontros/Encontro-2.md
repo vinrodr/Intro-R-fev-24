@@ -15,7 +15,7 @@ realizadas conforme o tipo de vetor.
     e pontos obscuros. Não avançaremos sem estarmos no mesmo patamar.
 2.  Para quem não terminou o exercício [Fix the
     code](../Tutoriais/fix-the-code.md), comece por aí.
-3.  Caso tenha finalizado, siga para o [../Tutorial
+3.  Caso tenha finalizado, siga para o [Tutorial
     3](../Tutoriais/Tutorial-3.md) - em
     [Rpubs](https://rpubs.com/vinrodr/tutorial_3_introR_pubs), onde
     retomamos alguns conceitos de maneira mais específica.
