@@ -20,12 +20,11 @@ Obs. Tópicos 7 a 10 estão sujeitos a alteração.
 
 [Encontro 2](). (em [Rpubs]()). Gramática R: Vetores e objetos derivados. Indexação e *subscripting*. Subconjuntos. Operadores matemáticos e operadores lógicos.
 
-[Encontro 3](). (em [Rpubs]()). ~~Alfabetização em R base: Cláusulas condicionais, _loops_ e funções.  *coercing* , sequências, , *subseting* e *converting* (I)~~
+[Encontro 3](). (em [Rpubs]()). Alfabetização em R base: Cláusulas condicionais, _loops_ e funções.  *coercing* , sequências, , *subseting* e *converting*
 
-[Encontro 4](). (em [Rpubs]()). ~~Alfabetização em R base: Cláusulas condicionais, _loops_ e funções. *coercing* , sequências, *subscripting*, *subseting* e 
-*converting* (II)~~
+[Encontro 4](). (em [Rpubs]()). O pacote Tidyverse: um novo mundo! Abrindo, manipulando, organizando e limpando dados.
 
-[Encontro 5](). (em [Rpubs]()). O pacote Tidyverse: Manipulação de data-frames em R, tabelas e gráficos. (I)
+[Encontro 5](). (em [Rpubs]()). O pacote Tidyverse: Manipulação de data-frames em R, tabelas e  - Juntando banco de dados (tibble, df e joins) (I)
 
 [Encontro 6](). (em [Rpubs]()). O pacote Tidyverse: Visualização de dados e o pacote ggplot2. (II)
 
