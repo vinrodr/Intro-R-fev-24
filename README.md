@@ -20,7 +20,7 @@ Obs. Tópicos 7 a 10 estão sujeitos a alteração.
 
 [Encontro 2](Encontros/Encontro-2.md). (em [Rpubs](https://rpubs.com/vinrodr/encontro_2_introR_pubs)). Introdução à gramática R: Vetores e objetos derivados. Operadores matemáticos, relacionais e lógicos.
 
-[Encontro 3](). (em [Rpubs]()). Alfabetização em R base: Cláusulas condicionais, *loops* e funções.  ~~*coercing* , sequências, , *subseting* e *converting*~~
+[Encontro 3](). (em [Rpubs]()). Alfabetização em R base: Cláusulas condicionais, *loops* e funções.
 
 [Encontro 4](). (em [Rpubs]()). O pacote Tidyverse: um novo mundo! Abrindo, manipulando, organizando e limpando dados.
 
