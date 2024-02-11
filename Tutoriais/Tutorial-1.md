@@ -166,7 +166,7 @@ library(knitr)
 knitr::include_graphics(path = "/home/vinicius/Área de Trabalho/Curso R - Tutoriais/rstudio-console.png")
 ```
 
-![](rstudio-console.png)<!-- -->
+![](rstudio-console.png)<!Tutoriais/rstudio-console.png>
 
 Um último ponto: Veja que com o R Studio (IDE) você pode salvar seu
 trabalho em scripts. Assim, poderá editá-los e, inclusive, salvá-los
