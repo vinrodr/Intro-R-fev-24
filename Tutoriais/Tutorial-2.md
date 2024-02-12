@@ -484,6 +484,50 @@ Já vimos que o R obedece a sequência e tudo que está no script (salvo os come
 ``` r
 UNIFESP <- NULL
 ```
+Ok, você pode ter ficado curiosa(o), então veja como ficaria:
+
+``` r
+library(httr)
+library(rvest)
+
+# Definir a URL
+url <- "https://www3.unifesp.br/prograd/app_prograd/consulta_matricula/controle_consulta_numero_matricula/"
+
+# Criar data.frame vazio
+df <- data.frame()
+
+# Função para enviar requisição e salvar resultado
+enviar_requisicao <- function(numero_matricula) {
+  # Definir os dados do formulário
+  dados <- list(
+    numero_matricula = numero_matricula,
+    acao = "Consultar"
+  )
+  
+  # Fazer a requisição POST
+  resposta <- POST(url, body = dados, encode = "form")
+  
+  # Verificar o status da requisição
+  if (resposta$status_code == 200) {
+    # Requisição bem sucedida
+    # Extrair o resultado da página
+    resultado <- html_text(html_find(content(resposta, "text"), ".resultadoConsulta"))
+    
+    # Adicionar resultado ao data.frame
+    df <- rbind(df, data.frame(numero_matricula = numero_matricula, resultado = resultado))
+  } else {
+    # Erro na requisição
+    stop("Erro ao acessar o site:", resposta$status_code)
+  }
+}
+
+# Exemplo de uso da função
+enviar_requisicao("12345678")
+enviar_requisicao("87654321")
+
+# Salvar o data.frame
+saveRDS(df, "resultado.rds")
+```
 
 * Há também os objetos de tipos NA e NaN
 
