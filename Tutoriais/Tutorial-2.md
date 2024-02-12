@@ -474,11 +474,12 @@ class(uniFESP)
 
 Trabalhando com *Special Values* (NULL, NA e NaN)
 ---
-Por vezes precisamos criar um objeto vazio, que receberá informações em
-alguma reiteração de comandos. É bem comum criarmos um objeto vazio, que
-irá receber linhas de maneira repetida e formarão um data-frame ao
-final. Veremos isso mais a frente com calma, por enquanto saibam que
-existe e que é útil.
+Por vezes precisamos criar um objeto vazio, que receberá informações em alguma reiteração de comandos. E isso não é raro.
+
+Pensemos um exemplo: Você acessa o website ***[Crachá Unifesp](https://www3.unifesp.br/prograd/app_prograd/consulta_matricula/controle_consulta_numero_matricula/)***, que fornece os números de crachá e matrícula de qualquer estudante Unifesp. Basta para isso, que insira o CPF e a data de nascimento. E como já começou a aprender R, deseja estabelecer uma rotina para acessar todos os números de matrícula de uma lista de alunos que possui.
+Você deverá solicitar ao R que acesse o website, insira as informações nos espaços disponíveis e copie o resultado. 
+
+Já vimos que o R obedece a sequência e tudo que está no script (salvo os comentários!), portanto, se você não criar uma solução no seu código, cada requisição irá sobrescrever seu *output*. O que fazemos? Criamos um objeto vazio e criamos uma rotina para que cada retorno do website seja gravado como uma nova linha de um data-frame. Serão tantas linhas, quanto requisições você fizer. E todas elas estarão empilhadas no seu novo data-frame - que antes de você iniciar a iteração era um objeto vazio. Veremos isso mais a frente com calma, por enquanto saibam que existe e que é útil.
 
 ``` r
 UNIFESP <- NULL
