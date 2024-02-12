@@ -43,7 +43,7 @@ library(installr)
 updateR()
 ```
 
-Por último, caso os pacotes (bibliotecas) sejam atualizados, o R envia
+Por último, caso os pacotes (bibliotecas) estejam desatualizados, o R envia
 um alerta na linha de comando ao carregá-los. Você poderá executar a
 atualização por meio do install.packages() da linha de comando ou por
 meio da barra de menu: Tools \> check for packages update.
