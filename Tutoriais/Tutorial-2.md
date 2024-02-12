@@ -343,7 +343,7 @@ assim por diante. Ainda iremos nos reverir à variável enquanto objeto no
 R. Iremos cambiar entre os significados, mas não se preocupe que com o
 tempo você se acostumará.
 
-Vamos dar mais um passo e abandonar a calculadora. O R também permite o
+**Vamos dar mais um passo** e abandonar a calculadora. O R também permite o
 armazenamento de valores como ‘objetos’, descritos por um nome. Uma vez
 criado, o objeto fica disponível para o restante do script e fica no
 Environment. Então, vamos criar uma variável (objeto) e atribuir um
