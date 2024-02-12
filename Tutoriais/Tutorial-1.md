@@ -17,12 +17,12 @@ coisas piores.
 
 Para baixar R, vá para [CRAN](https://cloud.r-project.org/) e siga as
 seguintes etapas: 
-\* Clique no botão CRAN no lado esquerdo. \* Selecione
+* Clique no botão CRAN no lado esquerdo. \* Selecione
 um espelho que seja próximo, ou seja, brasileiro. O espelho da USP ou da
 UFPR são ótimos. 
-\* Selecione qual tipo de máquina você possui (Windows,
+* Selecione qual tipo de máquina você possui (Windows,
 Linux ou MacOS X). 
-\* Caso tenha algum problema, você pode consultar o
+* Caso tenha algum problema, você pode consultar o
 guia de instalação e administração do R
 [aqui](http://cran.r-project.org/doc/manuals/R-admin.html).
 
