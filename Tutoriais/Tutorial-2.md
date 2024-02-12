@@ -485,6 +485,8 @@ Já vimos que o R obedece a sequência e tudo que está no script (salvo os come
 UNIFESP <- NULL
 ```
 
+* Há também os objetos de tipos NA e NaN
+
 Note que o comando **NULL** difere dos outros dois, pois para ele não há
 nenhum valor assinalado. Já para NA ou NaN pode até existir um valor
 atribuído, mas este não é *“usável”*. Vejamos alguns exemplos:
