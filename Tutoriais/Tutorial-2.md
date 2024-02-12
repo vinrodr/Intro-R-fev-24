@@ -197,7 +197,7 @@ Mas espere, de onde o R armazena e de onde ele pega seus arquivos?
 ---
 Quando você der o comando *q()*, o R irá iniciar o fechamento do
 programa. Mas isso nos ajuda a entender conceitos importantes: a área
-virtual, a sessão e o diretório de trabalho ( *workspace*).
+virtual, a sessão e o diretório de trabalho (*working directory*).
 
 Ao iniciar o R, você irá iniciar uma sessão. E o diretório de trabalho é
 aquele endereço (local ou externo) onde o R irá buscar ou armazenar
