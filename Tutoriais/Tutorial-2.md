@@ -322,7 +322,7 @@ seguintes operadores:
 | Divisão SEM resto |    %%    | 17 %% 3 = 5 |
 
 **Obs**. Divisão sem resto: Caso você deseje obter somente o valor de
-uma divisão desconsiderando os valores decimais, basta usar os símbolos.
+uma divisão desconsiderando os valores decimais.
 
 Bom, mas caso você usasse o R só como calculadora, não iria atribuir um
 nome ao resultado da operação matemática (ou seja, não iria criar um
