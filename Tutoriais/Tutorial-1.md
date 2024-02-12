@@ -57,8 +57,8 @@ sua própria máquina. É bem simples, baixe em
 algumas vezes por ano e sempre avisa quando há uma nova versão
 disponível.
 
-Pode gerar algum estranhamento o fato de instalarmos dois softwares para
-programar, mas isso acontece por que enquanto o **R** é o software de
+O fato de instalarmos dois softwares para
+programar pode gerar algum estranhamento, mas isso acontece por que enquanto o **R** é o software de
 processamento, o **R Studio** é a interface do usuário que lhe permitirá
 usar e salvar seu código mais facilmente. O R Studio, assim, é o
 ambiente que *‘roda sobre o R’*. Um jeito que ajuda a entender é pensar
