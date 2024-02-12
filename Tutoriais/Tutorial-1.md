@@ -93,7 +93,7 @@ mesma maneira como em outras linguagens de programação, com o uso de IDE
 no R você poderá gravar o seu trabalho em scripts. Estes podem ser
 alterados a qualquer tempo, bem como, executados de maneira fácil, seja
 parcialmente, seja integralmente. Isso é possível, pois um script é um
-registro das análises que você realizou (passo a passo). Em termos
+registro das análises que você realizou (um passo a passo). Em termos
 técnicos, isso revela que a linguagem R é funcional: ela implementa
 ações e análises a partir de funções (regras, comandos), ou seja,
 algoritmos. Lembre que um algoritmo é uma sequência funcional de
