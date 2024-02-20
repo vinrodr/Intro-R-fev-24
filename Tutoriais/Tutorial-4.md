@@ -64,7 +64,7 @@ os operadores matemáticos:
 |   Multiplicação   |    \*    | 2 \* 3 = 6  |
 |      Divisão      |    /     | 10 / 5 = 2  |
 |   Exponenciação   |    ^     |  2 ^ 3 = 8  |
-| Divisão SEM resto |    %%    | 17 %% 3 = 5 |
+| Divisão SEM resto |    %/%   | 17 %% 3 = 5 |
 
     * Divisão sem resto: Caso você deseje obter somente o valor de uma divisão desconsiderando os valores decimais, basta usar os símbolos.
 
