@@ -38,6 +38,8 @@ dados. Como o pacote já vem instalado com o R Base, basta tornar as
 funções disponíveis *para uso nesta sessão específica* com o
 comando/função *library()*:
 
+**Para executar um código do seu script, use o ícone *Run* da sua barra de tarefas. Ou (acostume-se com esta modalidade) selecione a parte do código que deseja executar, segure a tecla Crtl do seu teclado e aperte a tecla Enter**
+
 ``` r
 library(datasets)
 ```
