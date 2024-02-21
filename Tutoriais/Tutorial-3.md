@@ -99,11 +99,16 @@ chamados de categorias, então?
 Veja que tanto os *character*, quanto os *factor* admitem entradas em
 texto (*string*), **o que difere um do outro** é que não há ordenação na
 classe *character*. Evidentemente que é o R não difere aprioristicamente
-um de outro, portanto, caso você crie uma variável categórica ordinal (
-*factor*), mas não diga ao R para interpretá-la desta forma, mesmo que
+um de outro, portanto, caso você crie uma variável categórica ordinal (*factor*), mas não diga ao R para interpretá-la desta forma, mesmo que
 esteja c(“primeiro”, “segundo”, “terceiro”), sua variável estará
-marcando como *character*. E para transformar uma variável em outra,
+marcando como *character*. E para **transformar uma variável em outra**,
 basta você informar ao R com os comandos:
+
+```r
+as.character(resposta_f)
+
+as.factor(resposta_f)
+```
 
 Além disso, se tentarmos transformar um vetor factor em um vetor
 numérico, teremos um **grande problema**. Veja só:
