@@ -105,6 +105,8 @@ marcando como *character*. E para **transformar uma variável em outra**,
 basta você informar ao R com os comandos:
 
 ```r
+# observe no seu console as transformações de cada caso
+
 as.character(resposta_f)
 
 as.factor(resposta_f)
