@@ -97,7 +97,7 @@ Voltando à ideia de variável ordenada, cada ordem será chamada de
 chamados de categorias, então?
 
 Veja que tanto os *character*, quanto os *factor* admitem entradas em
-texto (*string*), o que difere um do outro é que não há ordenação na
+texto (*string*), **o que difere um do outro** é que não há ordenação na
 classe *character*. Evidentemente que é o R não difere aprioristicamente
 um de outro, portanto, caso você crie uma variável categórica ordinal (
 *factor*), mas não diga ao R para interpretá-la desta forma, mesmo que
