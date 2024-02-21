@@ -167,7 +167,7 @@ informar alguns parâmetros adicionais ao criar um factor!
 Veja o exemplo abaixo:
 
 ``` r
-altura_f <- factor(altura, ordered = T, levels <- c("baixo", "medio", "alto"))
+altura_f <- factor(altura, ordered = T, levels = c("baixo", "medio", "alto"))
 altura_f
 ```
 
