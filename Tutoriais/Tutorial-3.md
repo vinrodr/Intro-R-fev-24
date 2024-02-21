@@ -41,25 +41,25 @@ Primeiro, há uma abreviatura da classe do objeto quando você repousar o
 cursor do mouse sobre o objeto no Global Environment. A segunda maneira
 é usando a função *str()*; e, por fim, usando *class()*.
 
-• **Numérico** ( *numeric*): Você deve estar familiarizado com a classe
-dos numéricos ( *numeric*), que é… bem, qualquer número. O R ainda
-subclassifica os numéricos duplos ( *doubles*) ou simples ( *interger*),
+• **Numérico** (*numeric*): Você deve estar familiarizado com a classe
+dos numéricos (*numeric*), que é... bem, qualquer número. O R ainda
+subclassifica os numéricos duplos (*doubles*) ou simples (*interger*),
 que dizem respeito apenas a maneira pela qual o R irá armazenar e
 representar estes números. Veja: um numérico pode incluir os decimais
 (*double*); ou somente guardar a informar sem o fracionário
 (*interger*). **Obs.** Note que há um falso cognato aqui! O número
 inteiro no português é aquele número que admite fracionamento, enquanto
-são os naturais que não admitem decimais.
+são os naturais são os que não admitem decimais.
 
-• **Caractere** ( *character*): são objetos que armazenam dados
-alfanuméricos no formato de texto ( *string*).
+• **Caractere** (*character*): são objetos que armazenam dados
+alfanuméricos no formato de texto (*string*).
 
-• **Lógico** ( *logical*): são objetos que assumem valores de VERDADEIRO
+• **Lógico** (*logical*): são objetos que assumem valores de VERDADEIRO
 ou FALSO. Da mesma maneira como um vetor da classe *character* assume
-valores em texto ( *string*), você pode entender que um vetor lógico
-assume valores boleanos ( *bolean*) de verdadeiro ou falso.
+valores em texto (*string*), você pode entender que um vetor lógico
+assume valores boleanos (*bolean*) de verdadeiro ou falso.
 
-• **Fatores** ( *factor*): Aqui você precisa abstrair novamente. Pense
+• **Fatores** (*factor*): Aqui você precisa abstrair novamente. Pense
 nessa classe de objetos como uma variável categórica ordenada. Se você
 não se lembra do que é isso, saiba que toda informação não numérica que
 você pode ordenar é descrita como um factor ex. primeiro, segundo,
