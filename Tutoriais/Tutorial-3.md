@@ -108,6 +108,10 @@ basta você informar ao R com os comandos:
 Além disso, se tentarmos transformar um vetor factor em um vetor
 numérico, teremos um **grande problema**. Veja só:
 
+```r
+resposta_f <- as.numeric(resposta_f)
+```
+
 As saídas 1 e 2 que apareceram são os códigos automaticamente gerados
 pelo R para “yes” e “no”. O **critério** para atribuir os valores foi a
 **ordem alfabética** do texto que transformamos em fatores.
