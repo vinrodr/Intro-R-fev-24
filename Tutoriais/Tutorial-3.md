@@ -140,9 +140,9 @@ print(resposta_f)
 ```
 
 Voltando à criação da variável ordenada com os níveis “primeiro”,
-“segundo”, “terceiro”. Lembre-se que falamos que o R não reconhece esta
+“segundo”, “terceiro”. **Lembre-se** que falamos que o R não reconhece esta
 informação como factor, salvo se você dizer para ele. Mas se lembre,
-também, que a ordenação é dada por default por ordem alfabética!
+também, que a ordenação é dada por **default por ordem alfabética**!
 
 Então, para que o vetor de fatores c(“primeiro”, “segundo”, “terceiro”)
 mantivesse esta ordem, é preciso indicarmos ao R qual ordem é essa! De
