@@ -176,7 +176,7 @@ ordenada de baixo, medio e alto. As comparações que fazem uso de
 operadores lógicos entre os níveis agora fazem sentido!
 
 Falamos bastante de *factors* por que é uma classe de vetores em R que
-costuma gerar erros no código, que por vezes não são percebidos até a
+**costuma gerar erros no código**, que por vezes não são percebidos até a
 revisão por um terceiro. Imagine você classificar nominalmente um vetor
 e inverter os resultados que buscava? Fique atento a isso, pois é um
 elemento costumeiro de erro.
