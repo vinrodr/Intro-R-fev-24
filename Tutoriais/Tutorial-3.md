@@ -375,7 +375,7 @@ gastos_semana
 ```
 
 Você terá problemas com a função rbind() caso deseje unir vetores de
-dimensões diferentes. Veja, um data.frame é um banco de dados com
+dimensões diferentes (como vimos no nosso [Fix the code](../Tutoriais/fix-the-code.md)). Veja, um data.frame é um banco de dados com
 largura e altura fixas. Além disso, a função rbind coloca os vetores um
 sobre o outro, na ordem em que colocamos os objetos nos atributos da
 função. Ou seja, rbind(gastos_semana2, gastos_semana) fará um data.frame
