@@ -210,7 +210,7 @@ gastos2023 > gastos2024
 
 gastos2023 > 1000 & gastos2023 !=2200
 
-# O operador lógico "não" reverte uma proposição. 
+# O operador lógico (! "não") reverte uma proposição. 
 
 !TRUE
 !(4 > 2)
