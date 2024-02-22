@@ -276,6 +276,7 @@ mean(murders2$population)
 
 mean(murders2$taxa)
 ```
+**Obs.** Você acabou de ver um símbolo novo no código acima. É um cifrão **$** que está no meio de dois nomes. Usamos este símbolo em objetos do tipo data.frame para indicar de qual variável estamos falando. Dito de outro modo, se antes do cifrão temos o nome da 'tabela', após o cifrão indicamos que estamos nos referindo somente a determinada 'coluna' desta tabela. Veremos isso com muito mais cuidado nos próximos encontros que serão dedicados a análise de dados tabulares.
 
 Qual é o problema com esse código? Aparentemente nenhum, já que
 conseguimos os resultados. Mas agora imagine repetir o cálculo da média
