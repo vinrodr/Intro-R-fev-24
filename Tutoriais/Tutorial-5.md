@@ -31,7 +31,7 @@ if(discente > 6) {
 ```
 
 A cláusula condicional *if* deve obedecer o comando que aparece entre os
-(parênteses). Já o resultado, caso a (condição) seja satisfeita, dá-se
+(parênteses). Já o resultado, caso a (condição = discente> 6) seja satisfeita, dá-se
 conforme a instrução colocada dentro das {chaves}. Ou seja, o comando
 será atendido caso a cláusula seja verdadeira!!! (agora fica mais fácil
 compreender por que razão há o operador lógico **!** \[“não”\], já que a
