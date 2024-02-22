@@ -11,7 +11,7 @@ uso deste conhecimento, iremos construir cláusulas condicionais “if”,
 de funções e algoritmos, já que controlam o fluxo de comandos de nosso
 código!
 
-Antes de mais nada, lembram que podemos usar a função *Help* para
+Antes de mais nada, lembra-se que podemos usar a função *Help* para
 esclarecer quaisquer dúvidas, certo? Para o caso da programação de
 execuções condicionais, há ainda um resumo agregado que pode ser
 acessado por meio do seguinte comando:
