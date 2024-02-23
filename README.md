@@ -74,7 +74,7 @@ dados com R: Uma Introdução. Disponível [aqui](https://cdr.ibpad.com.br/cdr-i
 ## Desafios
 Já que o curso propõe uma aprendizagem ativa dos participantes, o encerramento de cada tópico terá um desafio para que solucionem em duplas. Não haverá nota, mas a não entrega de quaisquer um dos desafios retira a certificação da(o) participante. 
 
-[Desafio 1](). - Alfabetização em R base e conceitos iniciais
+[Desafio 1](../Desafio-1.md). - Alfabetização em R base e conceitos iniciais
 
 [Desafio 2](). - Manipulação de dados com Tidyverse
 
