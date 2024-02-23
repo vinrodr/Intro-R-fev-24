@@ -22,7 +22,7 @@ Obs. Tópicos 7 a 10 estão sujeitos a alteração.
 
 [Encontro 3](Encontros/Encontro-3.md). (em [Rpubs](https://rpubs.com/vinrodr/encontro_3_introR_pubs)). Alfabetização em R base: Cláusulas condicionais, *loops* e funções.
 
-[Encontro 4](). (em [Rpubs]()). O pacote Tidyverse: um novo mundo! Abrindo, manipulando, organizando e limpando dados.
+[Encontro 4](Encontros/Encontro-4.md). (em [Rpubs](https://rpubs.com/vinrodr/encontro_4_introR_pubs)). O pacote Tidyverse: um novo mundo! Abrindo, manipulando, organizando e limpando dados.
 
 [Encontro 5](). (em [Rpubs]()). O pacote Tidyverse: Manipulação de data-frames em R, tabelas e  - Juntando banco de dados (tibble, df e joins) (I)
 
