@@ -1,6 +1,9 @@
 Desafio 1
 ================
 
+* Envie seu *script* (**.R**) e seu *Global Environment* (**.RData**) no
+    no email do curso: <extensao.curso.r@gmail.com>
+
 Você deverá exercitar o que aprendemos até aqui. Não se preocupe, não
 será difícil. Apenas serve para que volte aos conteúdos e faça você
 mesmo.
@@ -61,10 +64,6 @@ NOME_LISTA[POSICAO]
 - Crie um novo objeto em seu *working directory*, renomeando as
   variáveis para o idioma português. Dica: Não vimos isso no R base, mas
   faça uso do *help(recode)* e *help(replace)*.
-
-
-  * Envie seu *script* (**.R**) e seu *Global Environment* (**.RData**) no
-    no email do curso: <extensao.curso.r@gmail.com>
 
 
 Viu só, era simples. Parabéns, em quatro encontros você já sabe por onde tem
