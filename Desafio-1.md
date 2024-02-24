@@ -9,7 +9,7 @@ será difícil. Apenas serve para que volte aos conteúdos e faça você
 mesmo.
 
 Vamos utilizar dados tabulares do arquivo “desafio1_data” que você deve
-baixar [aqui](../Data).
+baixar [aqui](../Data/desafio1_data.csv). **Atenção:** Você pode clicar no botão com três pontos *** no canto alto direito e depois em download; ou pode usar seu teclado segurando: Crtl + shift + S
 
 **1.** Abra o arquivo e guarde em um objeto no seu *Global Environmet*
 
