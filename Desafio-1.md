@@ -9,8 +9,8 @@ será difícil. Apenas serve para que volte aos conteúdos e faça você
 mesmo.
 
 Vamos utilizar dados tabulares do arquivo “desafio1_data” que você deve baixar [aqui](Data/desafio1_data.csv). 
-**Atenção:** Você pode usar seu teclado para fazer o download, segurando: Crtl + shift + S
-**Atenção:** Lembre-se de verificar se o arquivo está na mesma pasta do seu *working directory*. Use *getwd()* para consultar e *setwd()* para alterar. Aos usuários de windows, lembrem-se das barras duplas invertidas.
+- **Atenção:** Você pode usar seu teclado para fazer o download, segurando: Crtl + Shift + S
+- **Atenção:** Lembre-se de verificar se o arquivo está na mesma pasta do seu *working directory*. Use *getwd()* para consultar e *setwd()* para alterar. Aos usuários de windows, lembrem-se das barras duplas invertidas.
 
 
 **1.** Abra o arquivo e guarde em um objeto no seu *Global Environmet*
