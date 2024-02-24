@@ -65,5 +65,8 @@ NOME_LISTA[POSICAO]
 **4.** Envie seu *script* (**.R**) e seu *Global Environment* (**.RData**) no email do curso: <extensao.curso.r@gmail.com>
 
 
-Viu só, era simples. Parabéns, em quatro encontros você já sabe por onde tem
+
+Viu só, era simples.
+
+Parabéns, em quatro encontros você já sabe por onde tem
 que caminhar com o R!
