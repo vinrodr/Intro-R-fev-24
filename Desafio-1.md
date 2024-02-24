@@ -1,7 +1,7 @@
 Desafio 1
 ================
 
-0. Envie seu *script* (**.R**) e seu *Global Environment* (**.RData**) no email do curso: <extensao.curso.r@gmail.com>
+**0.** Envie seu *script* (**.R**) e seu *Global Environment* (**.RData**) no email do curso: <extensao.curso.r@gmail.com>
 
 Você deverá exercitar o que aprendemos até aqui. Não se preocupe, não será difícil. Apenas serve para que volte aos conteúdos e faça você mesmo.
 
