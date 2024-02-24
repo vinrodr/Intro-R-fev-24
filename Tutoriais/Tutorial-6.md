@@ -2,7 +2,7 @@ Tutorial 6
 ================
 
 O R base pode ter parecido um tanto desafiador e difícil para você. Mas,
-a partir de agora, começaremos ao uso mais comum (e potente) da
+a partir de agora, começaremos o uso mais comum (e potente) da
 linguagem R. Vamos trabalhar com a manipulação de dados por meio da
 biblioteca tidyverse - mais especificamente, o dplyr, que é um pacote
 dentro da biblioteca do tidyverse.
