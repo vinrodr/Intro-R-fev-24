@@ -35,7 +35,7 @@ que tiveram em encontrar uma resposta.
 2.  [Tutorial 6](../Tutoriais/Tutorial-6.md). Em
     [Rpubs](https://rpubs.com/vinrodr/tutorial_6_introR_pubs). Vamos ver
     como abrir e manipular dados usando o pacote dplyr do tidyverse.
-3.  [Desafio 1](../Desafio-1.md). Envie os arquivos (**.R e .RData**) no
+3.  [Desafio 1](../Desafio-1.md). Envie seu *script* (**.R**) e seu *Global Environment* (**.RData**) no
     email do curso.
 
 ## Pós encontro
