@@ -62,5 +62,10 @@ NOME_LISTA[POSICAO]
   variáveis para o idioma português. Dica: Não vimos isso no R base, mas
   faça uso do *help(recode)* e *help(replace)*.
 
-Viu só, era simples. Parabéns, em quatro dias você já sabe por onde tem
+
+  * Envie seu *script* (**.R**) e seu *Global Environment* (**.RData**) no
+    no email do curso: <extensao.curso.r@gmail.com>
+
+
+Viu só, era simples. Parabéns, em quatro encontros você já sabe por onde tem
 que caminhar com o R!
