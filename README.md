@@ -22,19 +22,19 @@ Obs. Tópicos 7 a 10 estão sujeitos a alteração.
 
 [Encontro 3](Encontros/Encontro-3.md). (em [Rpubs](https://rpubs.com/vinrodr/encontro_3_introR_pubs)). Alfabetização em R base: Cláusulas condicionais, *loops* e funções.
 
-[Encontro 4](Encontros/Encontro-4.md). (em [Rpubs](https://rpubs.com/vinrodr/encontro_4_introR_pubs)). O pacote Tidyverse: um novo mundo! Abrindo, manipulando, organizando e limpando dados.
+[Encontro 4](Encontros/Encontro-4.md). (em [Rpubs](https://rpubs.com/vinrodr/encontro_4_introR_pubs)). O pacote Tidyverse: um novo mundo! Abrindo e manipulando dados. (I)
 
-[Encontro 5](). (em [Rpubs]()). O pacote Tidyverse: Manipulação de data-frames em R, tabelas e  - Juntando banco de dados (tibble, df e joins) (I)
+[Encontro 5](). (em [Rpubs]()). O pacote Tidyverse: Manipulação de data-frames em R, tabelas e  - Organizando e limpando dados (II)
 
-[Encontro 6](). (em [Rpubs]()). O pacote Tidyverse: Visualização de dados e o pacote ggplot2. (II)
+[Encontro 6](). (em [Rpubs]()). O pacote Tidyverse: Manipulação de data-frames em R, tabelas e  - Juntando banco de dados (tibble, df e joins) (III)
 
-[Encontro 7](). (em [Rpubs]()). Aplicações: Raspagem de dados na internet.
+[Encontro 7](). (em [Rpubs]()). O pacote Tidyverse: Visualização de dados e o pacote ggplot2. (IV)
 
-[Encontro 8](). (em [Rpubs]()). Aplicações: Soluções via API de terceiros (basedosdados).
+[Encontro 8](). (em [Rpubs]()). Aplicações: Raspagem de dados na internet.
 
-[Encontro 9](). (em [Rpubs]()). Aplicações: Mineração de textos com R.
+[Encontro 9](). (em [Rpubs]()). Aplicações: Soluções via API de terceiros (basedosdados).
 
-[Encontro 10](). (em [Rpubs]()). Aplicações: Mapas e GIS.
+[Encontro 10](). (em [Rpubs]()). Aplicações: Mineração de textos com R.
 
 ## Referências bibliográficas
 
