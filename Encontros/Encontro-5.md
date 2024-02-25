@@ -3,7 +3,7 @@ Encontro 5
 
 # Introdução à programação em R (fev-24)
 
-## Organizando e limpando dados com *tidyverse*
+## Organizando, limpando e resumindo dados com *tidyverse*
 
 Agora que já conheço a maioria de vocês e o motivo que os levaram a
 cursar, já consigo reavaliar o conteúdo programático. Como a maioria de
