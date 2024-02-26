@@ -16,3 +16,5 @@ diferentes.
 1.  Caso não tenha finalizado, termine: o [Tutorial 7](../Tutoriais/Tutorial-7.md) e o [Tutorial 8](../Tutoriais/Tutorial-8.md).
 
 2.  Faça o [Tutorial 9](../Tutoriais/Tutorial-9.md).
+
+![](joins.png)
