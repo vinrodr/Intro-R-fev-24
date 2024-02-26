@@ -79,7 +79,7 @@ Já que o curso propõe uma aprendizagem ativa dos participantes, o encerramento
 
 [Desafio 2](). - Manipulação de dados e geração de gráficos e relatórios com tidyverse & RMarkdown
 
-[Desafio 3](). - Visualização de dados e produção de gráficos com ggplot2
+~~[Desafio 3](). - Visualização de dados e produção de gráficos com ggplot2~~
 
 ## Trabalho Final
 Como um produto melhor acabado do esforço de cada participante e requisito da certificação, o projeto final será autoral. Recomendamos fortemente que ele faça sentido para seu próprio trabalho/pesquisa/estudo.
