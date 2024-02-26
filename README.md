@@ -32,9 +32,10 @@ Obs. Tópicos 7 a 10 estão sujeitos a alteração.
 
 [Encontro 8](). (em [Rpubs]()). O pacote Tidyverse: Visualização de dados e o pacote ggplot2. (V)
 
-[Encontro 9](). (em [Rpubs]()). Aplicações: Raspagem de dados na internet. // Aplicações: Soluções via API de terceiros (basedosdados).
+[Encontro 9](). (em [Rpubs]()). Aplicações: Raspagem de dados na internet.
 
-[Encontro 10](). (em [Rpubs]()). Aplicações: Mineração de textos com R.
+[Encontro 10](). (em [Rpubs]()). Aplicações: Soluções via API de terceiros (basedosdados).
+
 
 ## Referências bibliográficas
 
