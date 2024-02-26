@@ -166,7 +166,7 @@ knitr::include_graphics(path = "/home/vinicius/Área de Trabalho/Curso R - Tutor
 ```
 
 ![](rstudio-console.png)<!Tutoriais/rstudio-console.png>
-![](joins.png)<!Tutoriais/joins.png>
+
 Um último ponto: Veja que com o R Studio (IDE) você pode salvar seu
 trabalho em scripts. Assim, poderá editá-los e, inclusive, salvá-los
 como texto como faria em qualquer editor de textos. Ainda que o script
