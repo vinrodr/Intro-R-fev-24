@@ -17,4 +17,4 @@ diferentes.
 
 2.  Faça o [Tutorial 9](../Tutoriais/Tutorial-9.md).
 
-![](../joins.png)
+
