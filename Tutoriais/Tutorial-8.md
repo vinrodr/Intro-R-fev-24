@@ -35,14 +35,14 @@ para isso, você poderá calcular estatísticas de seu interesse.
 
 Agora, tente você com os exemplos abaixo.
 
-| Medida estatística |           Função no R |
-|--------------------|----------------------:|
-| Média              |                mean() |
-| Mediana            |              median() |
-| Desvio Padrão      |                  sd() |
-| Quartil (25%)      | quantile(,probs=0.25) |
-| Mínimo             |                 min() |
-| Máximo             |                 max() |
+| Medida estatística |           Função no R  |
+|--------------------|-----------------------:|
+| Média              |                mean()  |
+| Mediana            |              median()  |
+| Desvio Padrão      |                  sd()  |
+| Quartil (25%)      | quantile( ,probs=0.25) |
+| Mínimo             |                 min()  |
+| Máximo             |                 max()  |
 
 Caso queira, você pode agregar diversas medidas resumo no bloco de
 código separando os argumentos por vírgulas. Veja o exemplo:
