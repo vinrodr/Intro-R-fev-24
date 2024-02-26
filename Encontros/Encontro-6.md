@@ -3,7 +3,7 @@ Encontro 6
 
 # Introdução à programação em R (fev-24)
 
-## Manipulação de data-frames (\*\_joins\*)
+## Unindo de data-frames (*joins*)
 
 No encontro de hoje iremos ver como podemos unir bancos de dados
 diferentes a partir de alguma(s) variável(eis) que são comuns a ambos.
