@@ -64,9 +64,139 @@ NOME_LISTA[POSICAO]
 
 **4.** Envie seu *script* (**.R**) e seu *Global Environment* (**.RData**) no email do curso: <extensao.curso.r@gmail.com>
 
-
-
 Viu só, era simples.
 
 Parabéns, em quatro encontros você já sabe por onde tem
 que caminhar com o R!
+
+
+Sugestões de solução
+================
+
+#####################################################################
+###                                                               ###
+###                       Código Exemplo                          ###
+###                                                               ###
+#####################################################################
+
+# Carregando Biblioteca
+
+if (!require(tidyverse)) install.packages('tidyverse')
+library(tidyverse)
+
+# Verificando meu working directory
+getwd()
+
+# Fixando meu working directory
+setwd(dir = "\\Users\\vinicius.anaue\\Documents")
+
+# Usando R base para carregar o arquivo .csv no environment
+meus_dados <- read.delim(file = "desafio1_data.csv", header = TRUE, sep = ";")
+# ou
+meus_dados <- read.csv2(file = "desafio1_data.csv", header = TRUE)
+
+# Usando dplyr para carregar o arquivo .csv no environment
+meus_dados <- read_delim(file = "desafio1_data.csv", delim = ";")
+# ou
+meus_dados <- read_csv2(file = "desafio1_data.csv")
+
+# Acessando informações do data.frame pela linha de comando
+head(meus_dados)
+names(meus_dados)
+dim(meus_dados)
+str(meus_dados)
+
+##### 3.1 Select columns
+  # R base
+meus_dados1 <- meus_dados[ , 1:4]
+# ou
+meus_dados1 <- meus_dados[ , c("age","sex","educ","income")]
+# e
+meus_dados1 <- meus_dados[ , c(1,2,4,11)]
+meus_dados1 <- meus_dados[ , c("age","sex","income","economy")]
+
+  ## Dplyr
+meus_dados1 <- meus_dados %>%
+  select(age, sex, educ, income)
+# ou
+meus_dados1 <- meus_dados %>%
+  select(1:4)
+# e
+meus_dados1 <- meus_dados %>%
+  select(1,2,4,11)
+# ou
+meus_dados1 <- meus_dados %>%
+  select(age, sex, income, economy)
+
+ 
+##### 3.2. Slice rows
+  # R base
+meus_dados2 <- meus_dados[1:10, ]
+# e
+meus_dados2 <- meus_dados[21:30, ]
+
+  # Dplyr
+meus_dados2 <- meus_dados %>%
+  slice_head(n = 10)
+# e
+meus_dados2 <- meus_dados %>%
+  slice_tail(n = 10)
+
+##### 3.3. Mutate columns
+  # R base
+meus_dados$income <- as.numeric(meus_dados$income) # income era character
+meus_dados$nova_coluna <- (meus_dados$age * meus_dados$income)
+# e
+meus_dados$nova_coluna <- (meus_dados$age / meus_dados$income)
+rm(meus_dados)
+
+  # Dplyr
+meus_dados <- read_delim(file = "desafio1_data.csv", delim = ";")
+meus_dados <- meus_dados %>%
+  mutate(nova_variavel = as.numeric(income) * age)
+# e
+meus_dados <- meus_dados %>%
+  mutate(nova_variavel = nova_variavel / age)
+
+##### 3.4. Filter rows
+  # R base
+meus_dados4 <- meus_dados[which(meus_dados$turnout == "Yes"), ]
+# ou
+meus_dados4 <- subset(meus_dados, turnout == "Yes")
+
+  # Dplyr
+meus_dados4 <- meus_dados %>%
+  filter(turnout == "Yes")
+
+##### 3.5.
+  # R base
+meus_dados5 <- meus_dados
+colnames(meus_dados5) <- c("idade", "sexo", "educacao",
+                           "renda", "poupanca", "casamento",
+                           "filhos", "partido", "adesao",
+                           "historia_voto", "economia",
+                           "incumbente", "candidato")
+# Ou
+names(meus_dados5)[1:13] <- c("idade", "sexo", "educacao",
+                             "renda", "poupanca", "casamento",
+                             "filhos", "partido", "adesao",
+                             "historia_voto", "economia",
+                             "incumbente", "candidato")
+
+  # Dplyr
+meus_dados5 <- meus_dados %>%
+  rename(idade = age,
+          sexo = sex,
+          educacao = educ,
+          renda = income,
+          poupanca = savings,
+          casamento = marriage,
+          filhos = kids,
+          partido = party,
+          adesao = turnout,
+          historia_voto = vote_history,
+          economia = economy,
+          incumbente = incumbent,
+          candidato = candidate)
+	
+
