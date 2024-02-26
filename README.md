@@ -26,7 +26,7 @@ Obs. Tópicos 7 a 10 estão sujeitos a alteração.
 
 [Encontro 5](Encontros/Encontro-5.md). (em [Rpubs](https://rpubs.com/vinrodr/encontro_5_introR_pubs)). O pacote Tidyverse: Manipulação de data-frames em R  - Organizando, limpando e resumindo dados (II)
 
-[Encontro 6](). (em [Rpubs]()). O pacote Tidyverse: Manipulação de data-frames em R  - Juntando bancos de dados (*joins*) (III)
+[Encontro 6](Encontros/Encontro-6.md). (em [Rpubs](https://rpubs.com/vinrodr/encontro_6_introR_pubs)). O pacote Tidyverse: Manipulação de data-frames em R  - Juntando bancos de dados (*joins*) (III)
 
 [Encontro 7](). (em [Rpubs]()). O pacote Tidyverse: Tabelas (IV). Produção de relatórios com o pacote RMarkdown.
 
