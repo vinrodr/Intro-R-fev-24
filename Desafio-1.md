@@ -73,117 +73,110 @@ que caminhar com o R!
 Sugestões de solução
 ================
 
-#####################################################################
-###                                                               ###
-###                       Código Exemplo                          ###
-###                                                               ###
-#####################################################################
-
-# Carregando Biblioteca
+**Carregando Biblioteca**
 
 if (!require(tidyverse)) install.packages('tidyverse')
 library(tidyverse)
 
-# Verificando meu working directory
+**Verificando meu working directory**
 getwd()
 
-# Fixando meu working directory
+**Fixando meu working directory**
 setwd(dir = "\\Users\\vinicius.anaue\\Documents")
 
-# Usando R base para carregar o arquivo .csv no environment
+**Usando R base para carregar o arquivo .csv no environment**
 meus_dados <- read.delim(file = "desafio1_data.csv", header = TRUE, sep = ";")
-# ou
+###### ou
 meus_dados <- read.csv2(file = "desafio1_data.csv", header = TRUE)
 
-# Usando dplyr para carregar o arquivo .csv no environment
+**Usando dplyr para carregar o arquivo .csv no environment**
 meus_dados <- read_delim(file = "desafio1_data.csv", delim = ";")
-# ou
+##### ou
 meus_dados <- read_csv2(file = "desafio1_data.csv")
 
-# Acessando informações do data.frame pela linha de comando
+**Acessando informações do data.frame pela linha de comando**
 head(meus_dados)
 names(meus_dados)
 dim(meus_dados)
 str(meus_dados)
 
-##### 3.1 Select columns
-  # R base
+**3.1 Select columns**
+**R base**
 meus_dados1 <- meus_dados[ , 1:4]
-# ou
+##### ou
 meus_dados1 <- meus_dados[ , c("age","sex","educ","income")]
-# e
+##### e
 meus_dados1 <- meus_dados[ , c(1,2,4,11)]
 meus_dados1 <- meus_dados[ , c("age","sex","income","economy")]
 
-  ## Dplyr
+**Dplyr**
 meus_dados1 <- meus_dados %>%
   select(age, sex, educ, income)
-# ou
+##### ou
 meus_dados1 <- meus_dados %>%
   select(1:4)
-# e
+##### e
 meus_dados1 <- meus_dados %>%
   select(1,2,4,11)
-# ou
+##### ou
 meus_dados1 <- meus_dados %>%
   select(age, sex, income, economy)
-
  
-##### 3.2. Slice rows
-  # R base
+**3.2. Slice rows**
+**R base**
 meus_dados2 <- meus_dados[1:10, ]
-# e
+###### e
 meus_dados2 <- meus_dados[21:30, ]
 
-  # Dplyr
+**Dplyr**
 meus_dados2 <- meus_dados %>%
   slice_head(n = 10)
-# e
+##### e
 meus_dados2 <- meus_dados %>%
   slice_tail(n = 10)
 
-##### 3.3. Mutate columns
-  # R base
+**3.3. Mutate columns**
+**R base**
 meus_dados$income <- as.numeric(meus_dados$income) # income era character
 meus_dados$nova_coluna <- (meus_dados$age * meus_dados$income)
-# e
+###### e
 meus_dados$nova_coluna <- (meus_dados$age / meus_dados$income)
 rm(meus_dados)
 
-  # Dplyr
+**Dplyr**
 meus_dados <- read_delim(file = "desafio1_data.csv", delim = ";")
 meus_dados <- meus_dados %>%
   mutate(nova_variavel = as.numeric(income) * age)
-# e
+##### e
 meus_dados <- meus_dados %>%
   mutate(nova_variavel = nova_variavel / age)
 
-##### 3.4. Filter rows
-  # R base
+**3.4. Filter rows**
+**R base**
 meus_dados4 <- meus_dados[which(meus_dados$turnout == "Yes"), ]
-# ou
+##### ou
 meus_dados4 <- subset(meus_dados, turnout == "Yes")
 
-  # Dplyr
+**Dplyr**
 meus_dados4 <- meus_dados %>%
   filter(turnout == "Yes")
 
-##### 3.5.
-  # R base
+**3.5.Rename Columns**
+**R base**
 meus_dados5 <- meus_dados
 colnames(meus_dados5) <- c("idade", "sexo", "educacao",
                            "renda", "poupanca", "casamento",
                            "filhos", "partido", "adesao",
                            "historia_voto", "economia",
                            "incumbente", "candidato")
-# Ou
+##### ou
 names(meus_dados5)[1:13] <- c("idade", "sexo", "educacao",
                              "renda", "poupanca", "casamento",
                              "filhos", "partido", "adesao",
                              "historia_voto", "economia",
                              "incumbente", "candidato")
 
-  # Dplyr
+**Dplyr**
 meus_dados5 <- meus_dados %>%
   rename(idade = age,
           sexo = sex,
