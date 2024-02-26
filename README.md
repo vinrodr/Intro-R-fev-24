@@ -77,7 +77,7 @@ Já que o curso propõe uma aprendizagem ativa dos participantes, o encerramento
 
 [Desafio 1](Desafio-1.md). - Alfabetização em R base e conceitos iniciais em dplyr
 
-[Desafio 2](). - Manipulação de dados e geração de gráficos e relatórios com tidyverse
+[Desafio 2](). - Manipulação de dados e geração de gráficos e relatórios com tidyverse & RMarkdown
 
 [Desafio 3](). - Visualização de dados e produção de gráficos com ggplot2
 
