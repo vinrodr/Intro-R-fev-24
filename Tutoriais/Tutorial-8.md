@@ -105,7 +105,7 @@ cada um dos 105 aeroportos da variável ‘dest’:
 
 ``` r
 flights %>% group_by(dest) %>% 
-  summarize(atraso_medio_decolagem = mean(arr_delay), na.rm = T)
+  summarize(atraso_medio_aterrissagem = mean(arr_delay), na.rm = T)
 ```
 
 Ué?! Um monte de NA, mas eu pedi que o R ignorasse os *missing values*.
