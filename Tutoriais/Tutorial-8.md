@@ -87,25 +87,25 @@ Claro que você pode criar um novo objeto que traga os grupos
 descriminados, mas isso não é preciso.
 
 ``` r
-# Criando objeto com database agrupada conforme aeroporto de origem
-origem_voo <- flights %>% group_by(origin)
+# Criando objeto com database agrupada conforme aeroporto de destino
+destino_voo <- flights %>% group_by(dest)
 ```
 
-Surpresa! Os objetos ‘origem_voo’ e ‘flights’ são quase que inteiramente
+Surpresa! Os objetos ‘destino_voo’ e ‘flights’ são quase que inteiramente
 iguais. Então, o que aconteceu? Ocorre que a função *group_by()*
 **sozinha não irá alterar nada do seu banco original**. Caso você
-escreva ‘origem_voo’ no seu console, para verificar o objeto, verá que
-linhas e colunas são iguais, mas apareceu uma nova linha \> origin \[3\]
+escreva ‘destino_voo’ no seu console, para verificar o objeto, verá que
+linhas e colunas são iguais, mas apareceu uma nova linha \> dest \[105\]
 que não existia. Isso é o R te contando que o objeto está agrupado
-conforme a variável ‘origin’ e tem 3 grupos.
+conforme a variável ‘dest’ e tem 105 grupos.
 
 Então, para ser útil, precisamos combinar o *group_by()* com outras
-funções. Veja o exemplo que calcula a média do atraso na decolagem para
-cada um dos três aeroportos da variável ‘origin’:
+funções. Veja o exemplo que calcula a média do atraso na aterrissagem para
+cada um dos 105 aeroportos da variável ‘dest’:
 
 ``` r
-flights %>% group_by(origin) %>% 
-  summarize(atraso_medio_decolagem = mean(dep_delay), na.rm = T)
+flights %>% group_by(dest) %>% 
+  summarize(atraso_medio_decolagem = mean(arr_delay), na.rm = T)
 ```
 
 Ué?! Um monte de NA, mas eu pedi que o R ignorasse os *missing values*.
@@ -118,26 +118,26 @@ sintaxe desta função? na.rm seria o nome da variável que receberia o
 valor TRUE para as observações. Então, vamos corrigir o código.
 
 ``` r
-flights1 <- flights %>% group_by(origin) %>% 
-  summarize(atraso_medio_decolagem = mean(dep_delay, na.rm = T))
+flights1 <- flights %>% group_by(dest) %>% 
+  summarize(atraso_medio_decolagem = mean(arr_delay, na.rm = T))
 ```
 
 Legal, né? Agora você tem uma ferramenta potente para investigar seu
 *data frame*. E ela pode agrupar os seus dados por mais variáveis!!!
-Veja só o cálculo da média do atraso de decolagem para o binômio
+Veja só o cálculo da média do atraso de aterrissagem para o binômio
 origem-destino.
 
 ``` r
 flights %>% group_by(origin, dest) %>% 
-  summarize(atraso_medio_decolagem = mean(dep_delay, na.rm = T))
+  summarize(atraso_medio_aterrissagem = mean(arr_delay, na.rm = T))
 ```
 
 Apareceu uma advertência, certo? O R deve ter te contado que:
-*summarise() has grouped output by ‘origin’. You can override using the
+*summarise() has grouped output by ‘dest’. You can override using the
 .groups argument.\>“*. Usei este exemplo para te contar a parte que
 acabamos esquecendo no uso do *group_by()*, que é a necessidade de
 ‘desagrupar’ seu objeto depois que você fez suas análises. Lembra que lá
-atrás o seu console adicionou uma linha ‘origin \[3\]’? E você não tinha
+atrás o seu console adicionou uma linha ‘origin \[105\]’? E você não tinha
 feito absolutamente nada além de usar o *group_by()*?!
 
 Pois é. A ação de agrupar um objeto é permanente, demandando que você
@@ -176,7 +176,7 @@ Tudo isso numa frase: fique atenta(o) em sempre desagrupar *ungroup()* -
 # Reagrupando
 flights %>%
   group_by(dest) %>%
-  summarize(atraso_medio_decolagem = mean(dep_delay, na.rm = T)) #%>%
+  summarize(atraso_medio_aterrissagem = mean(arr_delay, na.rm = T)) #%>%
   ungroup() # desagrupando
 ```
 
@@ -190,7 +190,7 @@ Usando o objeto flights, pré-carregado em seu R, calcule:
 - A duração média do tempo de vôo de cada companhia, mas agora
   informando por mês.
 
-- Você consegue dizer qual o aeroporto de origem (origin) tem a pior
+- Você consegue dizer qual o aeroporto de destino (dest) tem a pior
   média de atraso? Dica: Use group_by() e top_n() ou arrange()
 
 - Agora, informe qual é a companhia aérea menos pontual (carrier).
