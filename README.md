@@ -26,15 +26,15 @@ Obs. Tópicos 7 a 10 estão sujeitos a alteração.
 
 [Encontro 5](Encontros/Encontro-5.md). (em [Rpubs](https://rpubs.com/vinrodr/encontro_5_introR_pubs)). O pacote Tidyverse: Manipulação de data-frames em R  - Organizando, limpando e resumindo dados (II)
 
-[Encontro 6](Encontros/Encontro-6.md). (em [Rpubs](https://rpubs.com/vinrodr/encontro_6_introR_pubs)). O pacote Tidyverse: Manipulação de data-frames em R  - Juntando bancos de dados (*joins*) (III)
+[Encontro 6](Encontros/Encontro-6.md). (em [Rpubs](https://rpubs.com/vinrodr/encontro_6_introR_pubs)). Produção de relatórios com o pacote RMarkdown.
 
-[Encontro 7](). (em [Rpubs]()). O pacote Tidyverse: Tabelas (IV). Produção de relatórios com o pacote RMarkdown.
+[Encontro 7](). (em [Rpubs]()). O pacote Tidyverse: Tabelas (III). 
 
-[Encontro 8](). (em [Rpubs]()). O pacote Tidyverse: Visualização de dados e o pacote ggplot2. (V)
+[Encontro 8](). (em [Rpubs]()). O pacote Tidyverse: Manipulação de data-frames em R  - Juntando bancos de dados (*joins*) (IV)
 
-[Encontro 9](). (em [Rpubs]()). Aplicações: Raspagem de dados na internet.
+[Encontro 9](). (em [Rpubs]()). O pacote Tidyverse: Visualização de dados e o pacote ggplot2. (V)
 
-[Encontro 10](). (em [Rpubs]()). Aplicações: Soluções via API de terceiros (basedosdados).
+[Encontro 10](). (em [Rpubs]()). Aplicações: Raspagem de dados na internet. Aplicações: Soluções via API de terceiros (basedosdados).
 
 
 ## Referências bibliográficas
