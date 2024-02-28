@@ -11,9 +11,8 @@ era que o binômio script + environment garantia a reprodutibilidade.
 Pois, então: agora veremos ferramentas que ajudam a demonstrar que não
 manipulamos os resultados de um paper ou de uma tarefa.
 
-![](irreproducible.png)\<!../irreproducible.png\> BAKER, Monya. (2016)
-“1,500 scientists lift the lid on reproducibility”. Nature, volume 533,
-pages 452–454.
+![](irreproducible.png)\<!../irreproducible.png\> 
+BAKER, Monya. (2016). “1,500 scientists lift the lid on reproducibility”. Nature, volume 533, pages 452–454.
 
 ### 1. R Project - organizando sem problemas de ‘path’
 
