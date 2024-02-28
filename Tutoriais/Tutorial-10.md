@@ -41,7 +41,7 @@ brasileiros). Veja o exemplo abaixo, o banco de dados A e o B têm,
 ambos, o identificador comum ‘Município’ que usaremos para unir as
 variáveis ‘Gasto orçamentário Saúde’ e ‘Hospital Oncológico SUS’.
 
-![](/home/vinicius/Área%20de%20Trabalho/Curso%20R%20-%20Data/joins.png)
+![](../Data/joins.png)
 
 Mas veja, este exemplo é o mundo ideal: um mesmo identificador; bancos
 completos e mesma unidade de análise. Vamos deixar isso um pouco mais
@@ -434,7 +434,7 @@ todos os aviões descritos na tabela ‘planes’ estão presentes em
 Talvez visualizar as operações em fluxos de operação ajude um pouco.
 Abaixo uma figura extraída do cheatsheets do pacote dplyr.
 
-![](/home/vinicius/Área%20de%20Trabalho/Curso%20R%20-%20Data/joins2.png)
+![](../Data/joins2.png)
 
 ### Faça você mesmo
 
@@ -635,7 +635,7 @@ flights %>%
   left_join(airports, by = c("dest" = "faa"))
 ```
 
-![](/home/vinicius/Área%20de%20Trabalho/Curso%20R%20-%20Data/joins3.png)
+![](../Data/joins3.png)
 
 É verdade que se suas variáveis são exatamente iguais em conteúdo e
 unidade de observação, talvez faça mais sentido renomear e deixá-las com
