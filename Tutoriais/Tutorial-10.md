@@ -370,7 +370,7 @@ façam sentido na sua análise, evitando que o banco fique imenso e cheio
 de ruído.
 
 ``` r
-planes <- planes %>%
+planes1 <- planes %>%
   rename("ano_fabricação" = "year")
 
 voos_com_aviao <- flights %>% 
