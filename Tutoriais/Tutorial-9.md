@@ -212,7 +212,7 @@ Resumidamente:
 
 - Os links devem ser escritos dentro de (parênteses), sendo que o nome
   que permanece no hyperlink antecede envolto por colchetes –\> []()
-  [link que te leva para o google](http:\\www.google.com)
+  [link que te leva para o google](http://www.google.com)
 
 - Para que você abra um parágrafo, você precisa (i) ou inserir dois
   espaços; (ii) inserir uma linha com ‘enter’.
