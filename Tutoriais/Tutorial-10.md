@@ -341,7 +341,7 @@ para cada trecho aéreo que cada avião fez.
 
 ``` r
 # Filtrando por um único destino e ordenando conforme 'tailnum'
-flights_com_planes %>% 
+voos_com_aviao %>% 
   filter(dest=="GSO") %>% 
   arrange(tailnum) %>%
   select(tailnum, month, day, dep_time, manufacturer, year.x, year.y, model)
