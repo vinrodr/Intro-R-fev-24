@@ -30,7 +30,7 @@ Obs. Tópicos 7 a 10 estão sujeitos a alteração.
 
 [Encontro 7](Encontros/Encontro-7.md). (em [Rpubs](https://rpubs.com/vinrodr/encontro_7_introR_pubs)). O pacote Tidyverse: Manipulação de data-frames em R  - Juntando bancos de dados (*joins*) (III). 
 
-[Encontro 8](). (em [Rpubs]()). O pacote Tidyverse: Tabelas (IV)
+[Encontro 8](). (em [Rpubs]()). O pacote Tidyverse: Visualização de dados e o pacote ggplot2. (IV)
 
 [Encontro 9](). (em [Rpubs]()). O pacote Tidyverse: Visualização de dados e o pacote ggplot2. (V)
 
