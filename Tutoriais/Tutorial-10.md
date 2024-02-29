@@ -42,7 +42,7 @@ ambos, o identificador comum ‘Município’ que usaremos para unir as
 variáveis ‘Gasto orçamentário Saúde’ e ‘Hospital Oncológico SUS’.
 
 
-![](Data/joins.png)
+![](../Data/joins.png)
 
 
 Mas veja, este exemplo é o mundo ideal: um mesmo identificador; bancos
