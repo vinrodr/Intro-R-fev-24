@@ -44,8 +44,8 @@ Obs. Tópicos 7 a 10 estão sujeitos a alteração.
 * Guerra, Saulo; Oliveira, Paulo Felipe de e McDonnell, Robert (2018). Ciência de
 dados com R: Uma Introdução. Disponível [aqui](https://cdr.ibpad.com.br/cdr-intro.pdf)
 * Grolemund, Garrett (2014). Hands-On Programming with R. Ed: O'Reilly Media. Disponível [aqui](https://rstudio-education.github.io/hopr/)
-* Imai, Kosuke (2017). Quantitative Social Science: An Introduction. Ed: Princeton University Press.
-* Imai, Kosuke e Laudete, Elena (2023). Data analysis for social sciences: A friendly and practical approach. Ed: Princeton University Press.
+* Imai, Kosuke (2017). Quantitative Social Science: An Introduction. Ed: Princeton University Press. (Pelo [libgen](https://download.library.lol/main/2262000/11d86c0e1d9f653266d2824b17e7decc/Kosuke%20Imai%20-%20Quantitative%20Social%20Science_%20An%20Introduction-Princeton%20University%20Press%20%282018%29.pdf))
+* Imai, Kosuke e Laudete, Elena (2023). Data analysis for social sciences: A friendly and practical approach. Ed: Princeton University Press.(Pelo [Libgen](https://download.library.lol/main/3525000/977690e5e51b345c43cf63ef0c9d45ec/Elena%20Llaudet%2C%20Kosuke%20Imai%20-%20Data%20Analysis%20for%20Social%20Science_%20A%20Friendly%20And%20Practical%20Introduction-Princeton%20University%20Press%20%282022%29.pdf))
 * Silge, Julia e Robinson, David (2017). Text Mining with R: A Tidy Approach. Ed: O'Reilly Media. Disponível [aqui](https://www.tidytextmining.com/)
 * Wichkam, Hadley e Grolemund, Garrett (2016). R for Data Science. Ed: O'Reilly Media. Disponível [aqui](https://www.tidytextmining.com/)
 * Wichkam, Hadley (2014). Advanced R. Ed: Chapman and Hall/CRC. Disponível [aqui](http://adv-r.had.co.nz/)
