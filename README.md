@@ -34,7 +34,7 @@ Obs. Tópicos 7 a 10 estão sujeitos a alteração.
 
 [Encontro 9](). (em [Rpubs]()). O pacote Tidyverse: Visualização de dados e o pacote ggplot2. (V)
 
-[Encontro 10](). (em [Rpubs]()). Aplicações: Raspagem de dados na internet. Aplicações: Soluções via API de terceiros (basedosdados).
+[Encontro 10](). (em [Rpubs]()). Revisão dos conteúdos abordados e realização do Desafio em sala (com resolução conjunta ao final).
 
 
 ## Referências bibliográficas
