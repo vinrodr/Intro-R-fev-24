@@ -163,8 +163,7 @@ argumento, por praxe. Fazemos que todas as informações constem da
 dados, enquanto o caractere de positivo (**+**) adiciona mais
 camadas/informação ao gráfico.
 
-# IMAGEM CHEAT
-![](../Data/)
+![](../Data/ggplot_cheat.png)
 
 ## Estéticas (*aes*)
 
