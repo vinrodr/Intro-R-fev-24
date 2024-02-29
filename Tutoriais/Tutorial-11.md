@@ -141,9 +141,7 @@ frequentes na produção de gráficos:
 Voltando ao código que executou, talvez fique mais claro se você olhar a
 figura.
 
-<img align="center">
 ![](../Data/ggplot.png)
-</>
 
 Você deverá construir seu bloco de código de gráficos usando o símbolo
 **+**, para diferenciar das ações de manipulação/transformação de dados
@@ -165,11 +163,7 @@ argumento, por praxe. Fazemos que todas as informações constem da
 dados, enquanto o caractere de positivo (**+**) adiciona mais
 camadas/informação ao gráfico.
 
-<div align="center">
-
-![](/home/vinicius/Área%20de%20Trabalho/Curso%20R%20-%20Data/ggplot_cheat.png)
-
-</div>
+![](../Data/ggplot_cheat.png)
 
 ## Estéticas (*aes*)
 
@@ -194,7 +188,6 @@ alterar a forma dos pontos com o atributo ‘shape’.
 
 De toda maneira, vejamos as mais comuns:
 
-<div align="center">
 
 | Estética (aes) |                Descrição |
 |---------------:|-------------------------:|
@@ -208,7 +201,6 @@ De toda maneira, vejamos as mais comuns:
 |       linetype |  \_ \_ \_ \_ …. \_\_\_\_ |
 |          label |        Texto dos rótulos |
 
-</div>
 
 **ATENÇÃO**: Há diversas opções de estéticas (aes), mas **a
 disponibilidade delas depende diretamente do tipo de ‘geometria’**
@@ -221,13 +213,10 @@ compreender, ao invés de colocar nos argumentos de *aes()* uma tipo de
 forma para quando a variável assumir um valor e outra forma para quando
 assumir outro, basta que eu iguale ‘shape = variavel’ e o *ggplot()*
 fará a mágica acontecer.
+  
+![](../Data/ggplot2.png)
 
-<div align="center">
-
-![](/home/vinicius/Área%20de%20Trabalho/Curso%20R%20-%20Data/ggplot2.png)
-
-</div>
-
+  
 Veja com calma o que aconteceu aí na figura. Primeiro, temos somente um
 ponto para cada voo (‘flights’ - unidade é o voo). Depois, passamos a
 ter uma variável em ‘x’ (dep_time) e outra em ‘y’ (dep_delay). Depois,
@@ -277,12 +266,9 @@ por que são inúmeras com suas inúmeras estéticas possíveis.
 Abaixo você encontra algumas das opções de geometrias do *ggplot*,
 lembrando que todas sempre iniciarão com *geom\_*:
 
-<div align="center">
-
-![](/home/vinicius/Área%20de%20Trabalho/Curso%20R%20-%20Data/ggplot3.png)
-
-</div>
-
+![](../Data/ggplot3.png)
+  
+  
 ### Geometria de uma variável discreta (n do grupo)
 
 Vamos começar pelo mais simples. Quando queremos representar uma
