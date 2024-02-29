@@ -21,4 +21,4 @@ No encontro de hoje iremos ver
 
 ## Pós-encontro
 
-Você pode encontrar maiores explicações, tutoriais e exemplos no livro [R Graphics Cookbook](https://r-graphics.org/) e na [site R Graphics Cookbook](http://www.cookbook-r.com/Graphs/) - o livro e seu site têm materiais distintos.
+Você pode encontrar maiores explicações, tutoriais e exemplos no livro [R Graphics Cookbook](https://r-graphics.org/) e no [site R Graphics Cookbook](http://www.cookbook-r.com/Graphs/) - o livro e seu site têm materiais distintos.
