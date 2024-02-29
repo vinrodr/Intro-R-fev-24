@@ -18,3 +18,7 @@ No encontro de hoje iremos ver
 
 3.  Faça o [Tutorial 11](../Tutoriais/Tutorial-11.md) do encontro de
     hoje.
+
+## Pós-encontro
+
+Você pode encontrar maiores explicações, tutoriais e exemplos no livro [R Graphics Cookbook](https://r-graphics.org/) e na [site R Graphics Cookbook](http://www.cookbook-r.com/Graphs/) - o livro e seu site têm materiais distintos.
