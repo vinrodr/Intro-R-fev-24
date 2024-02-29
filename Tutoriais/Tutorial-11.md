@@ -42,14 +42,12 @@ representar uma variável de índice de preços num gráfico de pizza. Para
 cada classe de variável há um certo conjunto de representações gráficas
 possíveis.
 
-<div align="center">
 
 |                            **Variáveis Discretas** |                       **Variáveis Contínuas** |
 |---------------------------------------------------:|----------------------------------------------:|
 |    Elementos gráficos independentes ex. histograma | Elementos gráficos que variam de modo gradual |
 | Variáveis tipo *characther*, *factor* e *interger* |                     Variável do tipo *double* |
 
-</div>
 
 Neste sentido, os gráficos que vão representar variáveis discretas devem
 ser ‘mapeadas’ (já veremos o que isso quer dizer) para elementos
@@ -143,11 +141,9 @@ frequentes na produção de gráficos:
 Voltando ao código que executou, talvez fique mais claro se você olhar a
 figura.
 
-<div align="center">
-
-![](/home/vinicius/Área%20de%20Trabalho/Curso%20R%20-%20Data/ggplot.png)
-
-</div>
+<p align="center">
+![](../Data/ggplot.png)
+</p>
 
 Você deverá construir seu bloco de código de gráficos usando o símbolo
 **+**, para diferenciar das ações de manipulação/transformação de dados
