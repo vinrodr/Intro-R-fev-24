@@ -41,7 +41,9 @@ brasileiros). Veja o exemplo abaixo, o banco de dados A e o B têm,
 ambos, o identificador comum ‘Município’ que usaremos para unir as
 variáveis ‘Gasto orçamentário Saúde’ e ‘Hospital Oncológico SUS’.
 
+<p align="center">
 ![](../Data/joins.png)
+</p>
 
 Mas veja, este exemplo é o mundo ideal: um mesmo identificador; bancos
 completos e mesma unidade de análise. Vamos deixar isso um pouco mais
