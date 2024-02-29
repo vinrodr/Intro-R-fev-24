@@ -141,9 +141,9 @@ frequentes na produção de gráficos:
 Voltando ao código que executou, talvez fique mais claro se você olhar a
 figura.
 
-<p align="center">
+<img align="center">
 ![](../Data/ggplot.png)
-</p>
+</>
 
 Você deverá construir seu bloco de código de gráficos usando o símbolo
 **+**, para diferenciar das ações de manipulação/transformação de dados
