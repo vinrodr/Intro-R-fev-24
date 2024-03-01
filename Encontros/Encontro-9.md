@@ -17,7 +17,7 @@ toda potência do pacote, eu recomendo que você leia o material indicado
 1.  Caso não tenha finalizado, termine o [Tutorial
     11](../Tutoriais/Tutorial-11.md).
 
-2.  Faça o [Tutorial 12]([../Tutoriais/Tutorial-12.md](https://rpubs.com/vinrodr/tutorial_12_introR_pubs))
+2.  Faça o [Tutorial 12 - Em RPubs](https://rpubs.com/vinrodr/tutorial_12_introR_pubs).
 
 ## Pós-encontro
 
