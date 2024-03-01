@@ -32,7 +32,7 @@ Obs. Tópicos 7 a 10 estão sujeitos a alteração.
 
 [Encontro 8](Encontros/Encontro-8.md). (em [Rpubs](https://rpubs.com/vinrodr/encontro_8_introR_pubs)). O pacote Tidyverse: Visualização de dados e o pacote ggplot2. (IV)
 
-[Encontro 9](). (em [Rpubs]()). O pacote Tidyverse: Visualização de dados e o pacote ggplot2. (V)
+[Encontro 9](Encontros/Encontro-9.md). (em [Rpubs](https://rpubs.com/vinrodr/encontro_9_introR_pubs)). O pacote Tidyverse: Visualização de dados e o pacote ggplot2. (V)
 
 [Encontro 10](). (em [Rpubs]()). Revisão dos conteúdos abordados e realização do Desafio em sala (com resolução conjunta ao final).
 
