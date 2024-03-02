@@ -28,7 +28,7 @@ enviar o .RData, caso a base de dados não seja pública**.
     diferentes.
 
 2.  Se tiver dificuldade, deixei três bases da [Pesquisa de Perfil dos
-    Municípios do IBGE de 2005](../Data) na pasta de arquivos do github
+    Municípios do IBGE de 2005](Data) na pasta de arquivos do github
     do curso: munic1.csv; munic2.csv e munic3.csv. Deixei também um
     arquivo .zip, que tem uma planilha com todas as bases em sheets e o
     dicionário das variáveis na primeira sheet.
